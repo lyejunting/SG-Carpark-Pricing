@@ -1,0 +1,3258 @@
+{
+  "help": "https://data.gov.sg/api/3/action/help_show?name=datastore_search",
+  "success": true,
+  "result": {
+    "resource_id": "85207289-6ae7-4a56-9066-e6090a3684a5",
+    "fields": [
+      {
+        "type": "int4",
+        "id": "_id"
+      },
+      {
+        "type": "text",
+        "id": "carpark"
+      },
+      {
+        "type": "text",
+        "id": "category"
+      },
+      {
+        "type": "text",
+        "id": "weekdays_rate_1"
+      },
+      {
+        "type": "text",
+        "id": "weekdays_rate_2"
+      },
+      {
+        "type": "text",
+        "id": "saturday_rate"
+      },
+      {
+        "type": "text",
+        "id": "sunday_publicholiday_rate"
+      }
+    ],
+    "records": [
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "25 Toa Payoh Lorong 8",
+        "weekdays_rate_1": "Daily: $1.30 / 30 Mins",
+        "weekdays_rate_2": "-",
+        "_id": 1
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "$0.018 /min",
+        "sunday_publicholiday_rate": "$0.018 /min",
+        "carpark": "45 Burghley Drive",
+        "weekdays_rate_1": "$0.018 /min",
+        "weekdays_rate_2": "$0.018 /min",
+        "_id": 2
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Sat, Sun / Ph: $1.30 for 1st hr; $0.65 for sub. \u00bd hr or part thereof.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Ang Mo Kio Hub",
+        "weekdays_rate_1": "Mon-Fri: $1.20 for 1st hr; $0.60 for sub. \u00bd hr or part thereof.",
+        "weekdays_rate_2": "-",
+        "_id": 3
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Balestier Plaza",
+        "weekdays_rate_1": "Daily: $1.12 per hr",
+        "weekdays_rate_2": "-",
+        "_id": 4
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2 per entry",
+        "carpark": "Balestier Point",
+        "weekdays_rate_1": "8am-10pm: $1.20 per hr",
+        "weekdays_rate_2": "Aft 10pm: $2 per entry",
+        "_id": 5
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-1am: $0.50 for \u00bd hr",
+        "carpark": "Bras Basah Complex",
+        "weekdays_rate_1": "7am-5pm: $1 for \u00bd hr",
+        "weekdays_rate_2": "5pm-1am: $0.50 for \u00bd hr",
+        "_id": 6
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "7am-12 midnight: $1.20 for 1st hr or part thereof; $0.60 for sub. \u00bd hr or part thereof.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Causeway Point",
+        "weekdays_rate_1": "7am-10.30pm: $1.20 for 1st hr or part thereof; $0.60 for sub.\u00bd hr or part thereof.",
+        "weekdays_rate_2": "7am-10.30pm: $1.20 for 1st hr or part thereof; $0.60 for sub. \u00bd hr or part thereof.",
+        "_id": 7
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "$1.80 for 1st hr; $0.85 for \u00bd hr",
+        "sunday_publicholiday_rate": "$2.50 per entry",
+        "carpark": "Central Place",
+        "weekdays_rate_1": "$1.80 for 1st hr; $0.85 for \u00bd hr",
+        "weekdays_rate_2": "$1.80 for 1st hr; $0.85 for \u00bd hr",
+        "_id": 8
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "7am-6pm: $1.40 for 1st hr; $0.70 for sub. 30 mins; 6pm-3.30am: $3.50 per entry.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "City Square Mall",
+        "weekdays_rate_1": "7am-6pm: $1.20 for 1st hr; $0.60 for sub. 30 mins or part thereof.",
+        "weekdays_rate_2": "6pm-3.30am: $3 per entry.",
+        "_id": 9
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Compass Point",
+        "weekdays_rate_1": "Daily(7am-11pm): $1.20 for 1st hr or part thereof; $0.60 for sub. \u00bd hr or part thereof.",
+        "weekdays_rate_2": "-",
+        "_id": 10
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "7am-5.30pm: $1 per hr; Aft 5.30pm: $2 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Goldhill Plaza",
+        "weekdays_rate_1": "7am-5.30pm: $1.60 for 1st hr; $1 for sub. \u00bd hr",
+        "weekdays_rate_2": "5.30pm-12am: $2 per entry",
+        "_id": 11
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Heartland Mall",
+        "weekdays_rate_1": "7am-10.30pm: $1 per hr",
+        "weekdays_rate_2": "Aft 10.30pm: $2 per hr",
+        "_id": 12
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Hindoo Road Off-Street",
+        "weekdays_rate_1": "Daily: 0700-0700: $0.50 / 30 mins (Per Minute Charging)",
+        "weekdays_rate_2": "-",
+        "_id": 13
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-12am: $2.15 per entry; Aft 12am: $1.20 per entry",
+        "carpark": "Hougang Green Shopping Mall",
+        "weekdays_rate_1": "7am-5pm: $1.07 for 1st hr; $0.55 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $1.20 per entry",
+        "_id": 14
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "1st hr: $1.30;  2nd hr: $0.70 per \u00bd hr; 3rd hr onwards: $1 per \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Hougang Mall",
+        "weekdays_rate_1": "1st hr: $1.20;  2nd hr: $0.70 per \u00bd hr; 3rd hr onwards: $1 per \u00bd hr",
+        "weekdays_rate_2": "1st hr: $1.20;  2nd hr: $0.70 per \u00bd hr; 3rd hr onwards: $1 per \u00bd hr",
+        "_id": 15
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$1.50 per entry",
+        "carpark": "Hougang Plaza",
+        "weekdays_rate_1": "5am-5pm: $0.40 for \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $1.50 per entry",
+        "_id": 16
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-1am: $1 per entry; Aft 10.30pm: $2 per entry",
+        "carpark": "Toa Payoh HDB Hub",
+        "weekdays_rate_1": "7am-6pm: $0.50 per \u00bd hr",
+        "weekdays_rate_2": "6pm-1am: $1 per entry; Aft 10.30pm: $2 per entry",
+        "_id": 33
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "3am-5.59pm: $2.14 for 1st 2hrs; $0.32 for sub. 15 mins; 6pm-2.59am: $2.14 per entry",
+        "sunday_publicholiday_rate": "3am-5.59pm: $2.14 for 1st 2hrs; $0.32 for sub. 15 mins; 6pm-11.59pm: $2.14 per entry",
+        "carpark": "Junction 8 Shopping Centre",
+        "weekdays_rate_1": "12am-5.59pm - $1.07 for 1st hr; $0.32 for sub. 15 mins",
+        "weekdays_rate_2": "Mon-Thu: 6pm-11.59pm: $2.14 per entry; Fri/Eve of PH: 6pm-2.59am: $2.14 per entry",
+        "_id": 17
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Kampong Bugis Off-Street",
+        "weekdays_rate_1": "Daily: 0700-0700: $0.50 /30 mins (Per Minute Charging)",
+        "weekdays_rate_2": "-",
+        "_id": 18
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Kampong Kapor Road Off-Street",
+        "weekdays_rate_1": "Daily: 0700-0700: $0.50 /30 mins (Per Minute Charging)",
+        "weekdays_rate_2": "-",
+        "_id": 19
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Mustafa Centre",
+        "weekdays_rate_1": "Daily: 1st hr: Free; $2 for sub. hr",
+        "weekdays_rate_2": "-",
+        "_id": 20
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Sat, Sun / Ph: $1.40 for 1st hr; $0.70 for sub. \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Nex Mall",
+        "weekdays_rate_1": "Mon-Fri: $1.30 for 1st hr; $0.65 for sub. \u00bd hr",
+        "weekdays_rate_2": "-",
+        "_id": 21
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Northpoint Shopping Centre",
+        "weekdays_rate_1": "Daily: $1.20 for 1st hr or part thereof; $0.80 for sub. \u00bd hr or part thereof.",
+        "weekdays_rate_2": "-",
+        "_id": 22
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.06 per entry",
+        "carpark": "Parliament House",
+        "weekdays_rate_1": "8.01am-6pm: $1.13 per \u00bd hr (per min basis)",
+        "weekdays_rate_2": "6.01pm-8am: $2.06 per entry",
+        "_id": 23
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Ramada Hotel",
+        "weekdays_rate_1": "6am-6pm: $1.60 per hr",
+        "weekdays_rate_2": "Aft 6pm: $2.20 per entry",
+        "_id": 24
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Rivervale Mall",
+        "weekdays_rate_1": "Daily: $1.28 for 1st hr, $0.64 for sub. 30 mins or part thereof.",
+        "weekdays_rate_2": "-",
+        "_id": 25
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Sembawang Shopping Centre",
+        "weekdays_rate_1": "12am-11.59pm: $1.20 for 1st hr; $0.32 for sub. 15 mins",
+        "weekdays_rate_2": "$1.20 for 1st hr; $0.30 for sub. 15 mins",
+        "_id": 26
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Shaw Plaza",
+        "weekdays_rate_1": "8am-5pm: $1.04 for 1st hr; $0.53 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $1.55 per entry",
+        "_id": 27
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Shrewsbury Road Off-Street",
+        "weekdays_rate_1": "Daily, 0700-0700: $0.50 /30 mins (Per Minute Charging)",
+        "weekdays_rate_2": "-",
+        "_id": 28
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.20 for 1st 4hrs; $1.10 for sub. \u00bd hr; Aft 6pm: $2.20 per entry",
+        "carpark": "Square 2",
+        "weekdays_rate_1": "7am-6pm: $1.60 for 1st hr; $0.80 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $2.20 per entry",
+        "_id": 29
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Sun Plaza",
+        "weekdays_rate_1": "7am-5pm: $1.20 for 1st hr; $0.65 for sub. \u00bd hr",
+        "weekdays_rate_2": "5pm-11pm: $2.20 per entry; Aft 11pm: $3.30 per entry",
+        "_id": 30
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-12am: $2.50 per entry; Aft 12am: $2 per hr",
+        "carpark": "The Verge",
+        "weekdays_rate_1": "7am-5pm: $1.60 per hr",
+        "weekdays_rate_2": "5pm-12am: $2.50 per entry; Aft 12am: $1.30 per hr",
+        "_id": 31
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "7am-11am & 4pm-12am: $1.20 for 1st hr; $0.70 for sub. \u00bd hr; 11am-4pm: $1.20 for 1st hr; $1 for sub. \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Thomson Plaza",
+        "weekdays_rate_1": "7am-12am: $1 for 1st hr; $0.60 for sub. \u00bd hr",
+        "weekdays_rate_2": "7am-12am: $1 for 1st hr; $0.60 for sub. \u00bd hr",
+        "_id": 32
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$3 per entry",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Merchant Square",
+        "weekdays_rate_1": "8am-6pm: $2 for 1st \u00bd hr; $1 for sub. hr",
+        "weekdays_rate_2": "Aft 6pm: $3 per entry",
+        "_id": 278
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "7am-6pm: $2.20 for 1st 2hrs; $1.10 for sub. hr; Aft 6pm: $2 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "United Square Shopping Mall",
+        "weekdays_rate_1": "7pm-6pm: $2.20 for 1st hr; $1.10 for sub. hr",
+        "weekdays_rate_2": "Aft 6pm: $2 per entry",
+        "_id": 34
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Velocity @ Novena Square",
+        "weekdays_rate_1": "6am-6pm: $1.60 for 1st hr; $0.80 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $2.20 per entry",
+        "_id": 35
+      },
+      {
+        "category": "Central, North & North East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "0700-2230: Free Parking, 2230-0700: $0.0167/min (Capped at $4.00)",
+        "carpark": "Yishun YS-ONE",
+        "weekdays_rate_1": "0700-2230: $0.0167 /min",
+        "weekdays_rate_2": "2230-0700: $0.0167 /min ;(Capped at $4.00)",
+        "_id": 36
+      },
+      {
+        "category": "East",
+        "saturday_rate": "6am-9.59am: $0.54 for 1st hr; $0.16 for sub. 15mins. 10am-8.59pm: $1.28 for 1st 30mins; $0.65 for sub. 15mins. 9pm-5.59am: $0.54 for 1st hr; $0.16 for sub. 15mins.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "112 Katong",
+        "weekdays_rate_1": "6am-9.59am: $0.54 for 1st hr; $0.16 for sub. 15mins. 10am-5.59pm: $1.07 for 1st hr; $0.27 for sub. 15mins.",
+        "weekdays_rate_2": "6pm-8.59pm:$1.28 for 1st 30mins; $0.65 for sub. 15mins. 9pm-5.59am: $0.54 for 1st hr; $0.16 for sub. 15mins.",
+        "_id": 37
+      },
+      {
+        "category": "East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Bedok Mall",
+        "weekdays_rate_1": "Daily: 12-11.59pm: $1.50 for 1st hr, $0.40 for sub. 15 mins",
+        "weekdays_rate_2": "-",
+        "_id": 38
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Bedok Point",
+        "weekdays_rate_1": "$1.20 for 1st hr or part thereof; $0.70 for sub \u00bd hr or part thereof.",
+        "weekdays_rate_2": "$1.20 for 1st hr or part thereof; $0.70 for sub \u00bd hr or part thereof.",
+        "_id": 39
+      },
+      {
+        "category": "East",
+        "saturday_rate": "3.01am-6pm:S$0.32 every 15 mins or part thereof; 6.01am-3am:$2.14 per entry.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Century Square",
+        "weekdays_rate_1": "3.01am-6pm: S$1.07 for 1st hr and S$0.32 every 15 mins or part thereof.",
+        "weekdays_rate_2": "6.01am-3am: $2.14 per entry",
+        "_id": 40
+      },
+      {
+        "category": "East",
+        "saturday_rate": "$0.035 per min. Capped at $35 per 24hrs.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Changi Airport - South Car Park (between T2 and JetQuay)",
+        "weekdays_rate_1": "$0.035 per min. Capped at $35 per 24hrs. (Limited parking spaces and on a first-come, first-served basis)",
+        "weekdays_rate_2": "$0.035 per min. Capped at $35 per 24hrs.",
+        "_id": 41
+      },
+      {
+        "category": "East",
+        "saturday_rate": "$0.04 per min",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Changi Airport - T1, T2, T3",
+        "weekdays_rate_1": "$0.04 per min      *Based on the per-minute rate of S$0.04, 24 hours of parking will be S$57.60.",
+        "weekdays_rate_2": "$0.04 per min",
+        "_id": 42
+      },
+      {
+        "category": "East",
+        "saturday_rate": "7.01am-5pm: $2.50 for 1st 2hrs or part thereof; $1.20 for sub. \u00bd hr or part thereof. 5.01pm-7am: $2.50 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Changi City Point",
+        "weekdays_rate_1": "7.01am-6pm: $0.70 per \u00bd hr or part thereof.",
+        "weekdays_rate_2": "6.01pm-7am: $2.50 per entry",
+        "_id": 43
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Changi Village Hotel",
+        "weekdays_rate_1": "8am-6pm: $2 for 1st hr; $1.50 for sub. hr",
+        "weekdays_rate_2": "Aft 6pm: $5.35 per entry",
+        "_id": 44
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-12am: $1.20 per entry; Aft 12am: $2.40 per entry",
+        "carpark": "City Plaza",
+        "weekdays_rate_1": "8am-5pm: $1.10 for 1st hr; $0.70 for sub. \u00bd hr",
+        "weekdays_rate_2": "5pm-12am: $1.20 per entry; Aft 12am: $2.40 per entry",
+        "_id": 45
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Fri-Sat (Including PH, Eve of PH & School Holiday) $0.024 per min; 5pm-12am: $5 per entry. Max/day: $19.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "D'Resort",
+        "weekdays_rate_1": "Mon-Thu (excluding PH, Eve of PH & School Holiday) $0.024 per min; Max/day: $15 (Valid up to 12 midnight and not applicable for multiple entries).",
+        "weekdays_rate_2": "Mon-Thu (excluding PH, Eve of PH & School Holiday) $0.024 per min; Max/day: $15 (Valid up to 12 midnight and not applicable for multiple entries).",
+        "_id": 46
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Fri-Sat (Including PH, Eve of PH & School Holiday) $0.024 per min; 5pm-12am: $3.40 per entry. Max/day: $16.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Downtown East",
+        "weekdays_rate_1": "Mon-Thu (excluding PH, Eve of PH & School Holiday) $0.024 per min; Max/day: $12.50 (Valid up to 12 midnight and not applicable for multiple entries).",
+        "weekdays_rate_2": "Mon-Thu (excluding PH, Eve of PH & School Holiday) 5pm-12am: $2.40 per entry. Max/day:$12.50; Fri: $3.40 per entry.",
+        "_id": 47
+      },
+      {
+        "category": "East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "East Coast Park E1/E2/E3 Off-Street",
+        "weekdays_rate_1": "Daily: 0700-0700: $0.50 /30 Mins (Per Minute Charging)",
+        "weekdays_rate_2": "-",
+        "_id": 48
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Eastpoint Mall",
+        "weekdays_rate_1": "Daily: $1.20 for 1st hr or part thereof, $0.30 for sub. 15 mins or part thereof.",
+        "weekdays_rate_2": "-",
+        "_id": 49
+      },
+      {
+        "category": "East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Grand Mecure Roxy Hotel",
+        "weekdays_rate_1": "Daily: $1.60 per hr",
+        "weekdays_rate_2": "-",
+        "_id": 50
+      },
+      {
+        "category": "East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "IKEA (Tampines)",
+        "weekdays_rate_1": "Daily free: 7am-11pm",
+        "weekdays_rate_2": "-",
+        "_id": 51
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2 per entry",
+        "carpark": "Katong Shopping Centre",
+        "weekdays_rate_1": "7am-6pm: $1 per hr",
+        "weekdays_rate_2": "Aft 6pm: $2 per entry",
+        "_id": 52
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Katong Village",
+        "weekdays_rate_1": "8am-6pm: $2.20 per hr",
+        "weekdays_rate_2": "Aft 6pm: $6 per entry",
+        "_id": 53
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "6am-11:59pm: $3.21 per entry; 12am-5.59am: $12 per entry",
+        "carpark": "Lifelong Learning Institute",
+        "weekdays_rate_1": "6am-5:59pm: $0.90 per \u00bd hr. Full Day Parking-6am-11:59pm: $16.",
+        "weekdays_rate_2": "6pm-11.59pm: $3.21 per entry; 12am-5.59am: $12 per entry",
+        "_id": 54
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.50 per entry",
+        "carpark": "Paramount Hotel",
+        "weekdays_rate_1": "8am-5pm: $0.60 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2.50 per entry",
+        "_id": 55
+      },
+      {
+        "category": "East",
+        "saturday_rate": "6am-10am: $0.50 for 1st hr; $0.40 for sub.15 mins; 10am-6pm: $1.30 for 1st hr; $0.40 for sub. 15 mins; 6pm-2am: $2.10 per entry. Aft 2am: $20 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Parkway Parade",
+        "weekdays_rate_1": "6am-6pm: $1 for 1st hr;  $0.40 for sub. \u00bd hr",
+        "weekdays_rate_2": "6pm-2am: $1.50 per entry; Aft 2am: $20 per entry",
+        "_id": 56
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Roxy Square",
+        "weekdays_rate_1": "7am-6pm: $1.20 for 1st hr; $1.40 for sub. hr",
+        "weekdays_rate_2": "5pm-12am: $2.50 per entry",
+        "_id": 57
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Singapore Expo",
+        "weekdays_rate_1": "Daily: $3.20 for 1st 2hrs; $1.50 for sub. \u00bd hr (Maximum Daily Charge:$20)",
+        "weekdays_rate_2": "-",
+        "_id": 58
+      },
+      {
+        "category": "East",
+        "saturday_rate": "7am-1pm: $1.60 for 1st hr, $1 for next sub  \u00bd hr. 1pm-12am: $3 per entry; 12am-7am $1.60 for 1st hr, $1.00 for next sub \u00bd hr.",
+        "sunday_publicholiday_rate": "7am-12am: $3 per entry; 12am-7am $1.60 for 1st hr, $1.00 for next sub \u00bd hr .",
+        "carpark": "Singapore Post Centre",
+        "weekdays_rate_1": "7am-5pm: $1.60 for 1st hr, $1.00 for next sub  \u00bd hr",
+        "weekdays_rate_2": "5pm-12am: $3/entry. 12am-7am: $1.60 for 1st hr, $1.00 for next sub \u00bd hr.",
+        "_id": 59
+      },
+      {
+        "category": "East",
+        "saturday_rate": "1st hr $1.28; 2nd hr $0.60 per \u00bd hr; Aft 2hrs: $0.45 per 15 mins",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Tampines 1",
+        "weekdays_rate_1": "1st hr $1.07; 2nd hr $0.55 per \u00bd hr; Aft 2hrs: $0.35 per 15 mins",
+        "weekdays_rate_2": "1st hr $1.07; 2nd hr $0.55 per \u00bd hr; Aft 2hrs: $0.35 per 15 mins",
+        "_id": 60
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Charges same as wkdays, but closed after 2pm",
+        "sunday_publicholiday_rate": "Closed",
+        "carpark": "Tampines Junction",
+        "weekdays_rate_1": "8am-5pm: $1 for 1st hr; $0.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2 per entry",
+        "_id": 61
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$6 per entry",
+        "carpark": "Raffles Hotel",
+        "weekdays_rate_1": "12am-6pm: $3 for 1st \u00bd hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "6pm-12am: $6 per entry",
+        "_id": 108
+      },
+      {
+        "category": "East",
+        "saturday_rate": "3am-5.59pm: $2.14 for 1st 2hrs; $0.32 for sub. 15mins; 6pm-2.59am: $2.14 per entry",
+        "sunday_publicholiday_rate": "3am-5.59pm: $2.14 for 1st 2hrs; $0.32 for sub. 15mins; 6pm-11.59am: $2.14 per entry",
+        "carpark": "Tampines Mall",
+        "weekdays_rate_1": "12am-5:59pm: $1.07 for 1st hr; $0.32 for sub. 15mins",
+        "weekdays_rate_2": "Mon-Thu: 6pm-11.59pm: $2.14 per entry; Fri & Eve of PH: 6pm-2.59am: $2.14 per entry",
+        "_id": 62
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2 per entry",
+        "carpark": "Tampines Plaza (Compaq Centre)",
+        "weekdays_rate_1": "8am-5pm: $1 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2 per entry",
+        "_id": 63
+      },
+      {
+        "category": "East",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Telepark",
+        "weekdays_rate_1": "Daily: 7am-10pm: $0.70 per \u00bd hr (An additional surcharge of $22 per exit after 10pm)",
+        "weekdays_rate_2": "-",
+        "_id": 64
+      },
+      {
+        "category": "East",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "White Sands Shopping Centre",
+        "weekdays_rate_1": "7am-7pm: $1.20 per hr for 1st 2hrs; $1.20 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 7pm: $2 per entry",
+        "_id": 65
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Amara Hotel",
+        "weekdays_rate_1": "8am-4.59pm: $2 per \u00bd hr",
+        "weekdays_rate_2": "5pm-7.59am (the following day) : $3 per entry",
+        "_id": 66
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "8.30am-10pm: $1 per hr. Aft 10pm: Free",
+        "carpark": "Berjaya Hotel",
+        "weekdays_rate_1": "8.30am-5pm: $1 per \u00bd hr",
+        "weekdays_rate_2": "5pm-10pm: $1 per hr; Aft 10pm: Free",
+        "_id": 67
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Carlton Hotel",
+        "weekdays_rate_1": "7am-6pm: $3 for 1st hr; $1.50 for for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $6 per entry",
+        "_id": 68
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Changi Village Hotel",
+        "weekdays_rate_1": "8am-6pm: $2 for 1st hr; $1.50 for sub. hr",
+        "weekdays_rate_2": "Aft 6pm: $5.35 per entry",
+        "_id": 69
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.75 per entry",
+        "carpark": "Concorde Hotel",
+        "weekdays_rate_1": "7am-6pm: $2.14 for 1st hr; $1.39 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3.75 per entry",
+        "_id": 70
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "$2.20 for 1st 2hrs; $1.10 for sub. hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Conrad Centennial Hotel",
+        "weekdays_rate_1": "7am-6pm: $3.30 for 1st hr; $1.10 for sub.\u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $2.20 per entry",
+        "_id": 71
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Copthorne King's Hotel",
+        "weekdays_rate_1": "7am-12am: $3 for 1st hr; $1.50 for sub \u00bd hr",
+        "weekdays_rate_2": "Aft 12am: $4 for 1st hr; $2 for sub \u00bd hr",
+        "_id": 72
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Copthorne Orchid Hotel",
+        "weekdays_rate_1": "8am-5pm: $1.50 for 1st hr; $1 for sub. hr, per day $20)",
+        "weekdays_rate_2": "Aft 5pm: $3 per entry",
+        "_id": 73
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "$4 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Elizabeth Hotel",
+        "weekdays_rate_1": "7am-5pm: $3 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $4 per entry",
+        "_id": 74
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Four Seasons Hotel",
+        "weekdays_rate_1": "6am-5pm: $6 for 1st hr; $3 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $6 per entry",
+        "_id": 75
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Furama City Centre Singapore",
+        "weekdays_rate_1": "5am-5pm: $1.40 for 1st \u00bd hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3 per entry",
+        "_id": 76
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Furama Riverfront Singapore",
+        "weekdays_rate_1": "7am-5pm: $1 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $6 per entry",
+        "_id": 77
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Ramada Hotel",
+        "weekdays_rate_1": "6am-6pm: $1.60 per hr",
+        "weekdays_rate_2": "Aft 6pm: $2.20 per entry",
+        "_id": 109
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Regent Hotel",
+        "weekdays_rate_1": "7am-6pm: $5 for 1st hr; $2.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $6 per entry",
+        "_id": 110
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "6am-11.59pm: $3 for 1st hr; $0.50 for sub. \u00bd hr, $3 for 1st hr; $0.50 for sub. \u00bd hr from 12am-1.59am for Fri-Sun/PH",
+        "sunday_publicholiday_rate": "$2 for 1st hr; $0.50 for sub. \u00bd hr from 2.01am-6am for Fri-Sun/PH",
+        "carpark": "Gallery Hotel",
+        "weekdays_rate_1": "12pm-2pm: $3 for 1st hr; $1 for sub. \u00bd hr; $2 for 1st hr, $0.50 for sub. \u00bd hr from 2.01pm to 6.00pm for Mon-Thu",
+        "weekdays_rate_2": "6pm-11.59pm: $3 for 1st hr; $1 for sub. \u00bd hr; $2 for 1st hr; $0.50 for sub. \u00bd hr  from 12am-11.59am for Mon-Thu",
+        "_id": 78
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "Goodwood Park Hotel",
+        "weekdays_rate_1": "8am-6pm: $4 for 1st hr; $2 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $5 per entry",
+        "_id": 79
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$4.28 per entry",
+        "carpark": "Grand Copthorne Waterfront Hotel",
+        "weekdays_rate_1": "7am-5pm: $3.75 for 1st hr; $2.14 for sub. hr",
+        "weekdays_rate_2": "Aft 5pm: $4.28 per entry",
+        "_id": 80
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "4am-3.59am: $5.35 per entry",
+        "carpark": "Grand Hyatt Hotel",
+        "weekdays_rate_1": "4am-4.59pm: $3.21 for 1st hr; $1.07 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $5.35 per entry",
+        "_id": 81
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Grand Mercure Roxy Hotel",
+        "weekdays_rate_1": "Daily: $1.60 per hr",
+        "weekdays_rate_2": "-",
+        "_id": 82
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.57 per entry",
+        "carpark": "Grand Pacific Hotel (Formerly Allson Hotel)",
+        "weekdays_rate_1": "7am-5pm: $1.32 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.57 per entry",
+        "_id": 83
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Grand Park City Hall Hotel",
+        "weekdays_rate_1": "7am-5pm: $3.28 for 1st hr; $1.55 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $5.35 per entry",
+        "_id": 84
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Grand Park Orchard",
+        "weekdays_rate_1": "8am-5pm: $3.50 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $5 per entry",
+        "_id": 85
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$7 per entry",
+        "carpark": "Hilton Hotel",
+        "weekdays_rate_1": "8am-6pm: $7 for 1st hr",
+        "weekdays_rate_2": "Aft 6pm: $7 per entry",
+        "_id": 86
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.60 per entry",
+        "carpark": "Holiday Inn Atrium",
+        "weekdays_rate_1": "7am-5pm: $1.80 per hr",
+        "weekdays_rate_2": "Aft 5pm: $3.60 per entry",
+        "_id": 87
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Holiday Inn Express Singapore",
+        "weekdays_rate_1": "$3 per \u00bd hr.",
+        "weekdays_rate_2": "$3 per \u00bd hr.",
+        "_id": 88
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Holiday Inn Singapore Orchard City Centre",
+        "weekdays_rate_1": "$3 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "$3 for 1st hr; $1.50 for sub. \u00bd hr",
+        "_id": 89
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "$2.50 for 1st 2hrs; $0.25 for sub. 10 mins",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Inter-continental Hotel",
+        "weekdays_rate_1": "8am-5pm: $1.07 for 1st hr; $0.37 for sub. 10mins (Car park at Parco Bugis Junction)",
+        "weekdays_rate_2": "Mon-Thu: Aft 5pm: $2.50 per entry. Fri: $2.50 for 1st 2hrs; $0.25 for sub. 10 mins",
+        "_id": 90
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "After 2pm - $4.00 flat",
+        "sunday_publicholiday_rate": "$4.00 flat",
+        "carpark": "klapsons, The Boutique Hotel",
+        "weekdays_rate_1": "6.30am to 6.30pm - first 3 hours at $3.00 and subsequent half an hour at $1.50",
+        "weekdays_rate_2": "6.30pm to 6.30am - $ 4.00 flat",
+        "_id": 91
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.14 per entry",
+        "carpark": "Landmark Village Hotel (Formally Golden Landmark Hotel)",
+        "weekdays_rate_1": "8am-5pm: $1.90 for 1st hr; $1.07 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2.14 per entry",
+        "_id": 92
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Charges same as wkdays, but $3 per entry after 1pm",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "M Hotel",
+        "weekdays_rate_1": "7am-6pm: $1.50 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3 per entry",
+        "_id": 93
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Mandarin Orchard Singapore",
+        "weekdays_rate_1": "7am-6pm: $3.50 for 1st hr; $1.20 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $6 per entry",
+        "_id": 94
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Fri/Sat-Sun/PH: 7am-2am :$2.40 for 1st 2 hrs; $1.20 per hr for sub. 2hrs; $1.40 per \u00bd hr for sub. \u00bd hr after 4 hrs of parking. 2am-7am: $1.10 per \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Mandarin Oriental Hotel",
+        "weekdays_rate_1": "Mon-Thu: 7am-5pm: $2.20 for 1st 2hrs; $1.10 per \u00bd hr for sub. \u00bd hr (Car Park at Marina Square)",
+        "weekdays_rate_2": "Mon-Thu: 5pm-2am: $2.20 per entry; 2am-7am: $1.10 per \u00bd hr",
+        "_id": 95
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Marina Bay Sands",
+        "weekdays_rate_1": "7am-7pm: $6 for 1st hr; $1 for sub. hr; (Capped at $26 every 24hrs)",
+        "weekdays_rate_2": "Aft 7pm: $6 per entry",
+        "_id": 96
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Fri-Sun/PH: 7am-2am :$2.40 for 1st 2hrs; $1.20 per hr for sub. 2hrs; $1.40 per \u00bd hr for sub. \u00bd hr after 4 hrs of parking. 2am-7am: $1.10 per \u00bd hr for sub. \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Marina Mandarin Hotel",
+        "weekdays_rate_1": "Mon-Thu: 7am-5pm: $2.20 for 1st 2hrs; $1.10 per \u00bd hr for sub. \u00bd hr (Car Park at Marina Square)",
+        "weekdays_rate_2": "Mon-Thu: 5pm-2am: $2.20 per entry; 2am-7am: $1.10 per \u00bd hr for sub. \u00bd hr",
+        "_id": 97
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "7am-1pm: $1.07 per hr; Aft 1pm: $3.21 per entry",
+        "sunday_publicholiday_rate": "$3.21 per entry",
+        "carpark": "Novotel Clarke Quay",
+        "weekdays_rate_1": "7am-5pm: $1.07 per hr",
+        "weekdays_rate_2": "Aft 5pm: $3.21 per entry",
+        "_id": 98
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "$5 per entry",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "One Fullerton",
+        "weekdays_rate_1": "7am-6pm: $2.50 per \u00bd hr",
+        "weekdays_rate_2": "After 6pm: $5 per entry",
+        "_id": 99
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Orchard Grand Court Hotel",
+        "weekdays_rate_1": "7am-5pm: $2.50 per hr",
+        "weekdays_rate_2": "Aft 5pm: $3 per entry",
+        "_id": 100
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "Orchard Hotel Shopping Arcade",
+        "weekdays_rate_1": "7am-6pm: $5 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $5.50 per entry",
+        "_id": 101
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$4 per entry",
+        "carpark": "Orchard Parade Hotel",
+        "weekdays_rate_1": "7am-5pm: $4 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $4 per entry",
+        "_id": 102
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Fri/Sat-Sun/PH: 7am-2am :$2.40 for 1st 2 hrs; $1.20 per hr for sub. 2hrs; $1.40 per \u00bd hr for sub. \u00bd hr after 4 hrs of parking. 2am-7am: $1.10 per \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Pan Pacific Hotel",
+        "weekdays_rate_1": "Mon-Thu: 7am-5pm: $2.20 for 1st 2hrs; $1.10 per \u00bd hr for sub. \u00bd hr (Car Park at Marina Square)",
+        "weekdays_rate_2": "Mon-Thu: 5pm-2am: $2.20 per entry; 2am-7am: $1.10 per \u00bd hr",
+        "_id": 103
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$4 per entry",
+        "carpark": "Pan Pacific Orchard",
+        "weekdays_rate_1": "7am-5pm: $4 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $4 per entry",
+        "_id": 104
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.50 per entry",
+        "carpark": "Paramount Hotel",
+        "weekdays_rate_1": "8am-5pm: $0.60 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2.50 per entry",
+        "_id": 105
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Charges same as wkdays but $2.50 per entry (Multi-Storey Carpark) & $6 per entry (Hotel Driveway) after 1pm.",
+        "sunday_publicholiday_rate": "Multi-Storey Carpark - $2.50 per entry. Hotel Driveway - $6 per entry.",
+        "carpark": "PARKROYAL on Beach Road",
+        "weekdays_rate_1": "7am-5pm: Multi Storey Carpark - $2.50 for 1st hr; $1.50 for sub. \u00bd hr. Hotel Driveway - $6 for 1st hr; $2 for sub. \u00bd hr.",
+        "weekdays_rate_2": "Aft 5pm: Multi Storey Carpark - $2.50 per entry. Hotel Driveway - $6 per entry.",
+        "_id": 106
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "8am-5pm: $1.50 per hr; Aft 5pm: $4 per entry",
+        "carpark": "Peninsula Excelsior Hotel",
+        "weekdays_rate_1": "8am-5pm: $2.60 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $4 per entry",
+        "_id": 107
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Rendezvous Hotel",
+        "weekdays_rate_1": "Daily: $3.20 for 1st 2hrs; $1.60 for sub. hr",
+        "weekdays_rate_2": "-",
+        "_id": 111
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$5.50 per entry",
+        "carpark": "Royal Plaza On Scotts",
+        "weekdays_rate_1": "8am-6pm: $4 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $5.50 per entry",
+        "_id": 112
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Shangri-la Hotel",
+        "weekdays_rate_1": "7am-5pm: $6 for 1st hr; $2 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $8 per entry",
+        "_id": 113
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$6 per entry",
+        "carpark": "Sheraton Towers Hotel",
+        "weekdays_rate_1": "7am-6pm: $4 for 1st hr; $2 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $6 per entry",
+        "_id": 114
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Singapore Marriott Hotel",
+        "weekdays_rate_1": "6am-6pm: $0.05 per min/$3 per hr",
+        "weekdays_rate_2": "Aft 6pm: $0.05 per min/$3 per hr",
+        "_id": 115
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Swissotel Merchant Court Hotel",
+        "weekdays_rate_1": "Daily: $4.50 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "-",
+        "_id": 116
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "$2 for 1st 2hrs; $0.30 for sub. 15mins",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Swissotel Stamford Hotel",
+        "weekdays_rate_1": "8am-5pm: $2 for 1st hr; $0.50 for sub. 15mins (Car park at Raffles City Shopping Centre)",
+        "weekdays_rate_2": "Aft 5pm: $2.50 per entry",
+        "_id": 117
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "$2.20 for 1st 2hrs; $1.10 for sub. hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "The Ritz Carlton, Millenia Singapore",
+        "weekdays_rate_1": "7am-6pm: $3.30 for 1st hr; $1.10 for sub.\u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $2.20 per entry",
+        "_id": 118
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Charges same as wkdays, but $3.50 per entry after 1pm",
+        "sunday_publicholiday_rate": "$3.50 per entry",
+        "carpark": "Traders Hotel",
+        "weekdays_rate_1": "6am-5pm: $2.40 for 1st hr; $1.20 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.50 per entry",
+        "_id": 119
+      },
+      {
+        "category": "Hotels",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "York Hotel",
+        "weekdays_rate_1": "8.01am-6pm: $4 for 1st hr; $2 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $5 per entry",
+        "_id": 120
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as weekdays",
+        "sunday_publicholiday_rate": "$4.50 for 1st 3hrs; $1.50 for sub \u00bd hr",
+        "carpark": "313@Somerset",
+        "weekdays_rate_1": "$2 for 1st hr; $1 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $4.50 for 1st 3hrs; $1.50 for sub. \u00bd hr",
+        "_id": 121
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "0700-1700 : $1.00 per 30 mins; 1700-0700: $0.50 per 30 mins (Per Minute Charging)",
+        "sunday_publicholiday_rate": "$0.50 /30 mins (Per Minute Charging)",
+        "carpark": "Angullia Park Off-Street",
+        "weekdays_rate_1": "$1.00 /30 mins (Per Minute Charging)",
+        "weekdays_rate_2": "$0.50 /30 mins (Per Minute Charging)",
+        "_id": 122
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "3am-5.59pm: $2.14 for 1st 2 hrs; $0.32 for sub. 15mins; Aft 6pm: $2.14 per entry",
+        "sunday_publicholiday_rate": "3am-5.59pm: $2.14 for 1st 2hrs; $0.32 for sub. 15mins.  6pm-11.59pm: $2.14 per entry",
+        "carpark": "Atrium @ Orchard",
+        "weekdays_rate_1": "Mon-Thurs: 12am-5.59pm: $1.07 for 1st hr; $0.32 for sub. 15mins; Fri & Eve of PH: $1.07 for 1st hr; $0.32 for sub. 15mins",
+        "weekdays_rate_2": "Mon-Thurs: 6pm-11.59pm: $2.14 per entry; Fri & Eve of PH: 6pm-2.59am (the next day): $2.14 per entry",
+        "_id": 123
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "From 7am: $4.50 for 1st 3hrs; $1.60 for sub. \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Cathay Cineleisure Orchard",
+        "weekdays_rate_1": "From 7am: $2.40 for 1st hr; $1.40 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $4.50 for 1st 3hrs; $1.60 for sub.\u00bd hr",
+        "_id": 124
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "7am-12.59pm: $3 for 1st hr; $1.50 for sub. \u00bd hr.  1pm-10pm: $3 for 1st 2hr; $1.20 for sub. \u00bd hr.",
+        "sunday_publicholiday_rate": "7am-10pm: $3 for 1st 2 hr; $1.20 for sub. \u00bd hr",
+        "carpark": "ComCentre (Exeter Rd)",
+        "weekdays_rate_1": "7am-6pm: $3 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "6pm-6.59am: $3.50 per entry",
+        "_id": 125
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.75 per entry",
+        "carpark": "Concorde Hotel",
+        "weekdays_rate_1": "7am-6pm: $2.14 for 1st hr; $1.39 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3.75 per entry",
+        "_id": 126
+      },
+      {
+        "category": "West",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "27 West Coast Highway",
+        "weekdays_rate_1": "0000-0700: $0.75 / 30 mins (Capped at $4.28). 0700-2000: $0.75 / 30 mins (Capped at $4.28)",
+        "weekdays_rate_2": "-",
+        "_id": 327
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "8am-11pm: $4.07 per entry",
+        "carpark": "Delfi Orchard",
+        "weekdays_rate_1": "8am-5pm: $3 for 1st hr; $1.93 for sub. \u00bd hr",
+        "weekdays_rate_2": "5pm-11pm: $4.07 per entry (Car park closed at 11pm daily)",
+        "_id": 127
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "Elizabeth Hotel",
+        "weekdays_rate_1": "7am-6pm: $4 for 1st hr; $2 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $5 per entry",
+        "_id": 128
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.53 per entry.",
+        "carpark": "Far East Plaza",
+        "weekdays_rate_1": "8am-5pm: $2.14 for 1st hr; $1.07 for sub. \u00bd hr.",
+        "weekdays_rate_2": "Aft 5pm: $3.53 per entry.",
+        "_id": 129
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "8am-12am: $3.75 per entry; 12am-8am the folowing day : $3.75 per entry",
+        "carpark": "Far East Shopping Centre",
+        "weekdays_rate_1": "8am-5pm: $2.57 per hr; $1.28 for sub. \u00bdhr.",
+        "weekdays_rate_2": "5pm-12am: $3.75 per entry; 12am-8am the following day: $3.75 per entry",
+        "_id": 130
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "6am-5pm: $2.60 for 1st hr; $1.40 for sub. \u00bd hr, Aft 5pm: $3.20 per entry",
+        "sunday_publicholiday_rate": "$3.20 per entry",
+        "carpark": "Forum The Shopping Mall",
+        "weekdays_rate_1": "6am-5pm: $2.40 for 1st hr; $1.20 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.20 per entry",
+        "_id": 131
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Four Seasons Hotel",
+        "weekdays_rate_1": "6am-5pm: $6 for 1st hr; $3 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $6 per entry",
+        "_id": 132
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "Goodwood Park Hotel",
+        "weekdays_rate_1": "8am-6pm: $4 for 1st hr; $2 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $5 per entry",
+        "_id": 133
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "4am-3.59am: $5.35 per entry",
+        "carpark": "Grand Hyatt Singapore",
+        "weekdays_rate_1": "4am-4.59pm: $3.21 for 1st hr; $1.07 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $5.35 per entry",
+        "_id": 134
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Grand Park Orchard",
+        "weekdays_rate_1": "8am-5pm: $3.50 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $5 per entry",
+        "_id": 135
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "0700-1700: $1.00 / per 30 mins. 1700-0700: $0.50 / per 30 mins (Per Minute Charging)",
+        "sunday_publicholiday_rate": "$0.50 / 30 Mins. (Per Minute Charging)",
+        "carpark": "Grange Road Off-Street",
+        "weekdays_rate_1": "$1.00 /30 Mins (Per Minute Charging)",
+        "weekdays_rate_2": "$0.50 /30 mins (Per Minute Charging)",
+        "_id": 136
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Hilton Hotel",
+        "weekdays_rate_1": "$7 per hr.",
+        "weekdays_rate_2": "Aft 6pm: $7 per entry",
+        "_id": 137
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Holiday Inn Express Singapore",
+        "weekdays_rate_1": "$3 per \u00bd hr.",
+        "weekdays_rate_2": "$3 per \u00bd hr.",
+        "_id": 138
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Holiday Inn Singapore Orchard City Centre",
+        "weekdays_rate_1": "$3 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "$3 for 1st hr; $1.50 for sub. \u00bd hr",
+        "_id": 139
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Carpark not in use",
+        "sunday_publicholiday_rate": "Carpark not in use",
+        "carpark": "International Building",
+        "weekdays_rate_1": "Carpark not in use",
+        "weekdays_rate_2": "Carpark not in use",
+        "_id": 140
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Fri/Sat-Sun/PH: 8am-4.59pm: $2.56 for 1st hr; $0.94 for sub. 15 mins. 5-11.59pm: $3.74 per entry. 12am-7.59am $1.07 per hour",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "ION Orchard",
+        "weekdays_rate_1": "Mon-Thu: 8am-4.59pm: $2.67 for 1st hr; $0.64 for sub. 15 mins",
+        "weekdays_rate_2": "Mon-Thu: 5pm-11.59pm: $3 per entry. 12am-7.59am $1.07 per hr",
+        "_id": 141
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Liat Towers",
+        "weekdays_rate_1": "7am-6pm: $2.50 for 1st hr; $1.30 for sub. \u00bd hr",
+        "weekdays_rate_2": "6pm-12am: $3.50 per entry",
+        "_id": 142
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.60 per entry",
+        "carpark": "Tanglin Shopping Centre",
+        "weekdays_rate_1": "8am-5.59pm: $3 for 1st hr; $1.75 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3.60 per entry",
+        "_id": 172
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Sun: 7am-9.59pm: $1.93 for 1st hr; $1.28 for sub. \u00bd hr; 10pm-6.59am: $3.38 per entry. PH: $4 per entry (Does not applies if PH falls on Sun)",
+        "carpark": "Lucky Plaza",
+        "weekdays_rate_1": "7am-4.59pm: $1.93 for 1st hr; $1.28 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.38 per entry",
+        "_id": 143
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Mandarin Gallery",
+        "weekdays_rate_1": "6am-6pm: $3.50 for 1st hr; $0.05 per min",
+        "weekdays_rate_2": "6pm-6am: $3.50 for 1st hr; $0.03 per min",
+        "_id": 144
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Meritus Mandarin Singapore",
+        "weekdays_rate_1": "6am-6pm: $3.50 for 1st hr; $1.30 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $6 per entry",
+        "_id": 145
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "12.01am-12pm, 2.01pm-5pm: $2.57 for 1st hr; $1.61 for sub. \u00bd hr, 12.01pm-2pm, 5.01pm-7pm: $3.64 for 1st hr; $2.14 for sub. \u00bd hr, Aft 7pm: $4.28 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Ngee Ann City",
+        "weekdays_rate_1": "12.01am-12pm, 2.01pm-5pm: $1.28 for \u00bd hr , 12.01pm-2pm: $1.82 for \u00bd hr",
+        "weekdays_rate_2": "5.01pm-7pm:$1.82 for \u00bd hr; Aft 7pm: $4.28 per entry",
+        "_id": 146
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "OG Orchard Point",
+        "weekdays_rate_1": "7am-10.59pm:$2 for 1st hr or part thereof; $1.50 per sub. \u00bd hr or part thereof.",
+        "weekdays_rate_2": "11pm-6.59am: $2 per \u00bd hr or part thereof.",
+        "_id": 147
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-5pm: $3.60 for 1st 3hrs; $1.20 for sub. \u00bd hr; 5pm-1am: $3.60 per entry",
+        "carpark": "Orchard Building",
+        "weekdays_rate_1": "7am-5pm: $2.20 for 1st hr; $1.20 for sub. \u00bd hr (Car park closed at 1am daily )",
+        "weekdays_rate_2": "5pm-1am: $3.60 per entry",
+        "_id": 148
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "2am-2am: $4.50 for 1st 3hrs; $1.50 for sub. \u00bd hr",
+        "carpark": "Orchard Central",
+        "weekdays_rate_1": "2am-6pm: $2 for 1st hr; $1 for sub. \u00bd hr",
+        "weekdays_rate_2": "6pm-2am: $4.50 for 1st 3hrs; $1.50 for sub. \u00bd hr",
+        "_id": 149
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "Orchard Hotel Shopping Arcade",
+        "weekdays_rate_1": "7am-6pm: $5 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $5.50 per entry",
+        "_id": 150
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Orchard Parade Hotel",
+        "weekdays_rate_1": "$4 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "$4 for 1st hr; $1.50 for sub. \u00bd hr",
+        "_id": 151
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Orchard Plaza",
+        "weekdays_rate_1": "7am-5pm: $1.39 for \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.85 per entry for 1st 3 hrs; $1.39 for sub. \u00bd hr",
+        "_id": 152
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-1.59pm: $9 per entry. 2am-6.59pm: $9 per entry",
+        "carpark": "Orchard Towers",
+        "weekdays_rate_1": "7am-5.59pm: $5 per hr",
+        "weekdays_rate_2": "6pm-1.59am: $9 per entry. After 2am: $9 per entry",
+        "_id": 153
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "$4.80 1st 2\u00bd hrs or part thereof; $1.80 for sub. \u00bd hr or part thereof.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "orchardgateway",
+        "weekdays_rate_1": "12am-5.59pm: $3 for 1st 1\u00bd hrs or part thereof; $1.50 for sub. \u00bd hr or part thereof.",
+        "weekdays_rate_2": "6pm-11.59pm: $4.80 1st 2\u00bd hrs or part thereof; $1.80 for sub. \u00bd hr or part thereof.",
+        "_id": 154
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Pacific Plaza",
+        "weekdays_rate_1": "8am-6pm: $1.50 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3 for 1st 2hrs; $1 for sub. \u00bd hr",
+        "_id": 155
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-1am: $3.80 per 4-hourly; 1am-7am: $1.50 per hr",
+        "carpark": "Palais Renaissance",
+        "weekdays_rate_1": "7am-5pm: $2.80 for 1st hr; $1.60 for sub. \u00bd hr",
+        "weekdays_rate_2": "5pm-1am: $3.80 per entry; Aft 1am: $1.50 per hr",
+        "_id": 156
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "Pan Pacific Orchard",
+        "weekdays_rate_1": "7am-5pm: $5 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $5 per entry",
+        "_id": 157
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "3am-5.59pm: $3.48 for 1st 2hrs; $0.05 for sub. mins. Aft 6pm: $3.48 per entry. Daily $2 surcharge from 9am-9pm.  Additional Peak Hr Surcharge of $1.28 from 12pm to 2:30pm daily.",
+        "carpark": "Paragon Shopping Centre",
+        "weekdays_rate_1": "3am-5.59pm: $2.58 for 1st hr; $1.48 for sub. \u00bd hr. Daily $2 surcharge from 9am-9pm.  Additional Peak Hr Surcharge of $1.28 from 12pm to 2:30pm daily.",
+        "weekdays_rate_2": "Aft 6pm: $3.48 per entry. Daily $2 surcharge from 9am-9pm.",
+        "_id": 158
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "0700-1700 : $1.00 / per 30 mins. 1700-0700: $0.50 / per 30 mins (Per Minute Charging)",
+        "sunday_publicholiday_rate": "$0.50 / 30 mins (Per Minute Charging)",
+        "carpark": "Penang Road Off-Street",
+        "weekdays_rate_1": "$1.00 / 30 mins (Per Minute Charging)",
+        "weekdays_rate_2": "$0.50 / 30 mins (Per Minute Charging)",
+        "_id": 159
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "3am-5.59pm: $2.14 for 1st 2hrs; $0.32 for sub. 15mins; Aft 6pm: $2.14 per entry",
+        "sunday_publicholiday_rate": "3am-5.59pm: $2.14 for 1st 2hrs; $0.32 for sub. 15mins. 6pm-11.59pm: $2.14 per entry",
+        "carpark": "Plaza Singapura",
+        "weekdays_rate_1": "Mon-Thu:$1.07 for 1st hr; $0.32 for sub. 15mins.  Fri & Eve of PH: $2.14 for 1st 2 hr; $0.32 for sub. 15mins.",
+        "weekdays_rate_2": "Mon-Thu: 6pm-11.59pm: $2.14 per entry; Fri & Eve of PH: 6pm-2.59am: $2.14 per entry",
+        "_id": 160
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Regent Hotel",
+        "weekdays_rate_1": "7am-6pm: $5 for 1st hr; $2.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $6 per entry",
+        "_id": 161
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$5.50 per entry",
+        "carpark": "Royal Plaza On Scotts",
+        "weekdays_rate_1": "8am-6pm: $4 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $5.50 per entry",
+        "_id": 162
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "All day: $1.95 per hr or part thereof.",
+        "sunday_publicholiday_rate": "7am-4.59pm: $1.95 per hr, 5pm-6.59am: $4.90 for 1st 3hrs; $1.95 for sub. hr.",
+        "carpark": "Scape",
+        "weekdays_rate_1": "7am-4.59pm: $1.95 per hr",
+        "weekdays_rate_2": "5pm-6.59am: $4.90 for 1st 3hrs; $1.95 for sub. hr",
+        "_id": 163
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Shangri-la Hotel",
+        "weekdays_rate_1": "7am-5pm: $6 for 1st hr; $2 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $8 per entry",
+        "_id": 164
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Shaw Centre",
+        "weekdays_rate_1": "3.01am-6pm: $2 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "6.01pm-3.01am: $4 per entry",
+        "_id": 165
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Shaw House",
+        "weekdays_rate_1": "3.01am-6pm: $2 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "6.01pm-3.01am: $4 per entry",
+        "_id": 166
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$6 per entry",
+        "carpark": "Sheraton Towers Singapore",
+        "weekdays_rate_1": "7am-6pm: $4 for 1st hr; $2 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $6 per entry",
+        "_id": 167
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Singapore Marriott Hotel",
+        "weekdays_rate_1": "6am-6pm: $0.05 per min/$3 per hr",
+        "weekdays_rate_2": "Aft 6pm: $0.05 per min",
+        "_id": 168
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Singapore Shopping Centre",
+        "weekdays_rate_1": "8am-8pm: $2.50 for 1st hr; $1.25 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 8pm: $3 per entry",
+        "_id": 169
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Starhub Centre",
+        "weekdays_rate_1": "7am-6pm: $2 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "6pm-7am the following day:$2.00 for 1st hr, $1.50 for next subq 1/2hr",
+        "_id": 170
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Charges same as wkdays, but $3.50 per entry after 1pm",
+        "sunday_publicholiday_rate": "$3.50 per entry",
+        "carpark": "Tanglin Mall",
+        "weekdays_rate_1": "6am-5pm: $2.40 for 1st hr; $1.20 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.50 per entry",
+        "_id": 171
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Memories at Old Ford Factory",
+        "weekdays_rate_1": "Daily free parking at Carparks C and D",
+        "weekdays_rate_2": "-",
+        "_id": 191
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Tangs",
+        "weekdays_rate_1": "6am-6pm: $3 for 1st hr, $0.05/min",
+        "weekdays_rate_2": "6pm-6am the following day: $6 Per entry",
+        "_id": 173
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "8am-9:59pm: $1.40 per hr; Aft 10pm: $3 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "The Cathay",
+        "weekdays_rate_1": "8am-9:59am: $1.40 for \u00bd hr; 10am-9:59pm: $1.40 per hr",
+        "weekdays_rate_2": "Aft 10pm: $3 per entry",
+        "_id": 174
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2 for 1st hr; $1.50 for sub. hr",
+        "carpark": "The Centrepoint",
+        "weekdays_rate_1": "7am-5pm: $2 for 1st hr; $1.50 sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2 for 1st hr; $1.50 sub. hr",
+        "_id": 175
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "8am-11pm: $5 for 1st 3 hrs and $1.50 for subseqent \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "The Heeren",
+        "weekdays_rate_1": "8am-11pm: $1.50 per \u00bd hr",
+        "weekdays_rate_2": "8am-11pm: $1.50 per \u00bd hr",
+        "_id": 176
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Charges same as wkdays, but $3.50 per entry after 1pm",
+        "sunday_publicholiday_rate": "$3.50 per entry",
+        "carpark": "Traders Hotel",
+        "weekdays_rate_1": "6am-5pm: $2.40 for 1st hr; $1.20 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.50 per entry",
+        "_id": 177
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "7am-5.59pm: $2 for 1st hr; $0.50 sub 15 mins. 6pm-11.59am: $1.80 per hr; 12am-6.59am:$0.50 sub 15 mins.",
+        "sunday_publicholiday_rate": "7am-11.59pm: $1.80 per hr; 12am-6.59am:$0.50 sub 15 mins.",
+        "carpark": "TripleOne Somerset",
+        "weekdays_rate_1": "7am-5.59pm: $1.50 per \u00bd hr (charges are before GST)",
+        "weekdays_rate_2": "6pm-11.59am: $1.80 per hr; 12am-6.59am:$0.50 sub 15 mins.",
+        "_id": 178
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Wheelock Place",
+        "weekdays_rate_1": "8am-6pm: $3 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $4.50 per entry",
+        "_id": 179
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-11pm: $4.50 per entry. Aft 11pm: $3.50 per entry",
+        "carpark": "Winsland House",
+        "weekdays_rate_1": "7am-7pm: $2.50 for 1st hr; $1.20 for sub. \u00bd hr",
+        "weekdays_rate_2": "7pm-11pm: $3.50 per entry. Aft 11pm: $3.50 per entry",
+        "_id": 180
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "$3.60 for 1st 2hrs; $0.80 for sub. \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Wisma Atria",
+        "weekdays_rate_1": "7am-5pm: $2.40 for 1st hr; $1.20 for sub. \u00bd hr (Lunch Hr Surcharge of additional $1.07 between 12pm - 2pm)",
+        "weekdays_rate_2": "Aft 5pm: $3.50 per entry",
+        "_id": 181
+      },
+      {
+        "category": "Orchard Area",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "York Hotel",
+        "weekdays_rate_1": "8.01am-6pm: $4 for 1st hr; $2 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $5 per entry",
+        "_id": 182
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Changi Chapel and Museum (The Changi Museum)",
+        "weekdays_rate_1": "Free daily",
+        "weekdays_rate_2": "-",
+        "_id": 183
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Chinatown Heritage Centre",
+        "weekdays_rate_1": "Parking is available at the public car park adjacent to the Buddha Tooth Relic Temple, URA centre and People's Park Centre.",
+        "weekdays_rate_2": "-",
+        "_id": 184
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Chinese Garden",
+        "weekdays_rate_1": "6am-6pm: Free 1st hr; $0.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $0.50 per \u00bd hr",
+        "_id": 185
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Haw Par Villa",
+        "weekdays_rate_1": "Daily(9am-7pm): $5 per entry (Car park closed after 7pm)",
+        "weekdays_rate_2": "-",
+        "_id": 186
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Hay Dairies Goat Farm",
+        "weekdays_rate_1": "Free daily: 9am-4pm",
+        "weekdays_rate_2": "-",
+        "_id": 187
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Jurong Bird Park",
+        "weekdays_rate_1": "Daily(8am-5pm): $2 per entry",
+        "weekdays_rate_2": "-",
+        "_id": 188
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Labrador Secret Tunnel ( Labrador Park )",
+        "weekdays_rate_1": "Free daily",
+        "weekdays_rate_2": "-",
+        "_id": 189
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Mandai Orchid Garden",
+        "weekdays_rate_1": "Free daily",
+        "weekdays_rate_2": "-",
+        "_id": 190
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Mount Faber (Jewel Box)",
+        "weekdays_rate_1": "Limited public parking spaces availiable. Valet parking at The Jewel Box is available at $5 per car",
+        "weekdays_rate_2": "-",
+        "_id": 192
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "National Museum of Singapore",
+        "weekdays_rate_1": "Limited parking facility is available at the National Museum. Other parking facilities are available at YMCA, Singapore Management University and Fort Canning Park",
+        "weekdays_rate_2": "-",
+        "_id": 193
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Reflections at Bukit Chandu",
+        "weekdays_rate_1": "Daily free parking at Carparks C and D of Pepys Road",
+        "weekdays_rate_2": "-",
+        "_id": 194
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "Fri/Sat-Sun/PH: 7am-7pm: $8 for 1st hr; $2 for sub. \u00bd hr or part thereof.  Aft 7pm: $8 per entry (Max: $28 per 24 hrs)",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Resorts World Sentosa - Universal Studios Singapore (RWS B1 car park)",
+        "weekdays_rate_1": "Mon-Thu: 7am-7pm: $7 for 1st hr; $1 for sub. \u00bd hr or part thereof. (Max: $28 per 24 hrs)",
+        "weekdays_rate_2": "Aft 7pm: $6 per entry",
+        "_id": 195
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.50 per entry",
+        "carpark": "Royal Selangor Pewter Museum ( Park at Clarke Quay)",
+        "weekdays_rate_1": "$2.20 for 1st hr; $1.10 for sub. \u00bd hr (Car park at Clarke Quay)",
+        "weekdays_rate_2": "Aft 5pm: $2.50 per entry",
+        "_id": 196
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "7am-5pm: Island entry: $7 per car*; Parking - $5 for 1st 4 hrs; $2 for sub. hr; 5.01pm-6.59am: $3 per car*; parking - $2 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Sentosa (Beach and Imbiah car park)",
+        "weekdays_rate_1": "7am-5pm: Island Entry: $6 per car*; Parking - $3 for 1st 4hrs; $1 for sub. hr. Except 12pm-2pm: Island Entry $2 per car*, free parking. *Rates covers all passengers in car",
+        "weekdays_rate_2": "5.01pm-6.59am: Island entry: $2 per car*; parking - $1 per entry",
+        "_id": 197
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "7am-5pm: Island entry: $7 per car*; Parking - $3 for 1st 8hrs; $1 for sub. hr; 5.01pm-6.59am: $3 per car*; parking - $1 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Sentosa (Tanjong & Palawan car park)",
+        "weekdays_rate_1": "7am-5pm: Island Entry: $6 per car*; Parking - $3 for 1st 8hrs; $1 for sub. hr. Except 12pm-2pm: Island Entry $2 per car*, free parking. *Rates covers all passengers in car",
+        "weekdays_rate_2": "5.01pm-6.59am: Island entry: $2 per car*; parking - $1 per entry",
+        "_id": 198
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Singapore Art Museum",
+        "weekdays_rate_1": "Parking at SAM reserved for cars with NHB parking labels.  Nearest Carparks available at Waterloo Street, Queen Street, NTUC Income Centre, Plaza by the Park and Singapore Management University.",
+        "weekdays_rate_2": "-",
+        "_id": 199
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Singapore Botanic Gardens",
+        "weekdays_rate_1": "7am-10.30pm: $0.02 per min (8am-9am: $1 peak hr charge for all passing vehicles that enter from Kheam Hock Road and exit at Evans/Cluny Road) - Closed from 12am-5am daily",
+        "weekdays_rate_2": "7pm-10.30pm: $2 per maximum cap",
+        "_id": 200
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "6am-10pm: $0.55 per \u00bd hr (per min charging); Aft 10pm: $3 per entry",
+        "carpark": "Singapore City Gallery (URA centre)",
+        "weekdays_rate_1": "6am-10pm: $1.10 per \u00bd hr (per min charging) Public parking is also available at the Erskine Road Off-Street Carpark next to Maxwell Road Food Centre.",
+        "weekdays_rate_2": "10pm-6am: $3 per entry",
+        "_id": 201
+      },
+      {
+        "category": "West",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "798 Upper Bukit Timah Road",
+        "weekdays_rate_1": "0000-0700: $2.14 /30 mins. 0700-0000: $1.07 /30 mins.",
+        "weekdays_rate_2": "-",
+        "_id": 328
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "6am-12midnight: $2 per hr or part thereof. 12midnight- 6am: $2 per entry.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Singapore Flyer",
+        "weekdays_rate_1": "6am-6pm: $2 per hr or part thereof. Free Lunchtime Parking from 12pm to 2pm (only valid for vehicles entering the multi-storey carpark after 12pm).",
+        "weekdays_rate_2": "6pm-6am:$2 per entry.",
+        "_id": 202
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Singapore Mint Coin Gallery",
+        "weekdays_rate_1": "Wkdays free: 8.30am-4.30pm",
+        "weekdays_rate_2": "-",
+        "_id": 203
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Singapore Philatelic Museum",
+        "weekdays_rate_1": "URA coupon parking. Nearest car park at Armenian Street between Bible House and Peranakan Museum",
+        "weekdays_rate_2": "-",
+        "_id": 204
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Singapore Science centre/Singapore Discovery Centre / Snow City",
+        "weekdays_rate_1": "Daily: $0.50 per \u00bd hour",
+        "weekdays_rate_2": "-",
+        "_id": 205
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Singapore Turf Club (STC)",
+        "weekdays_rate_1": "Daily: $5 per entry",
+        "weekdays_rate_2": "-",
+        "_id": 206
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Singapore Zoological gardens/Night Safari",
+        "weekdays_rate_1": "Daily: $3 for 1st hr; $2 sub. hr or part thereof. 4th hour onwards: $8.00 flat rate (maximum)",
+        "weekdays_rate_2": "-",
+        "_id": 207
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Sungei Buloh Wetland Reserve",
+        "weekdays_rate_1": "Daily free: 7am-7pm",
+        "weekdays_rate_2": "-",
+        "_id": 208
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "The Arts House (Park at New Parliament House)",
+        "weekdays_rate_1": "Available at current Parliament House, The Adelphi and the road side along Empress Place",
+        "weekdays_rate_2": "-",
+        "_id": 209
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "The Battle Box ( Park at Fort Canning",
+        "weekdays_rate_1": "URA coupon parking",
+        "weekdays_rate_2": "-",
+        "_id": 210
+      },
+      {
+        "category": "Singapore Attractions",
+        "saturday_rate": "Fri-Sun incl. PH & Sch Holidays:7am-11.59pm: $9 for 1st 3 hrs; $5 per hr or part thereof. 12am-06.59am: $20 per entry",
+        "sunday_publicholiday_rate": "Fri-Sun incl. PH & Sch Holidays:7am-11.59pm: $9 for 1st 3 hrs; $5 per hr or part thereof. 12am-06.59am: $20 per entry",
+        "carpark": "Underwater World Singapore",
+        "weekdays_rate_1": "Mon-Thu: 7am-11.59pm: $7.50 for 1st 3 hrs; $5 per hr or part thereof",
+        "weekdays_rate_2": "Mon-Thu: 12am-06.59am: $20 per entry",
+        "_id": 211
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "0800-1700: $1.07 per hr, 1700-2300: $2.14 per entry, 2300-0800: $1.07 per hr",
+        "sunday_publicholiday_rate": "$1.07 per hr",
+        "carpark": "10 Raeburn Park",
+        "weekdays_rate_1": "$1.07 per hr",
+        "weekdays_rate_2": "1700-2300:- $2.14 per entry, 2300-0800: $1.07 per hr",
+        "_id": 212
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "0700-1300:-$1.29 for 1st hr, $0.43 per 15 mins thereafter; 1300-0700: $2.14 /Entry",
+        "sunday_publicholiday_rate": "$2.14 / Entry",
+        "carpark": "1557 Keppel Road",
+        "weekdays_rate_1": "0700-1900:$1.29 for 1st hr, $0.43 /15 mins thereafter",
+        "weekdays_rate_2": "1900-0700: $2.14 /Entry",
+        "_id": 213
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "0700-1300: $0.80 /30 mins. 1300-0700: $4.00 /entry",
+        "sunday_publicholiday_rate": "$4.00 / entry",
+        "carpark": "34 Boon Leat Terrace",
+        "weekdays_rate_1": "$0.80 / 30 mins",
+        "weekdays_rate_2": "1800-2200: $2.50 per entry. 2200-0700: $4.00 per entry",
+        "_id": 214
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "798 Upper Bukit Timah Road",
+        "weekdays_rate_1": "0000-0700: $2.14 /30 mins. 0700-0000: $1.07 /30 mins.",
+        "weekdays_rate_2": "-",
+        "_id": 215
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays but $2.80 per entry after 1pm",
+        "sunday_publicholiday_rate": "$2.80 per entry",
+        "carpark": "8 Shenton Way",
+        "weekdays_rate_1": "7am-6pm: $2.30 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $2.80 per entry",
+        "_id": 216
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Amara Hotel",
+        "weekdays_rate_1": "8am-4.59pm: $2 per \u00bd hr",
+        "weekdays_rate_2": "5pm-7.59am (the following day) : $3 per entry",
+        "_id": 217
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-6.59am (next day): $3 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Asia Square",
+        "weekdays_rate_1": "7am-5.59pm: $0.08 per min",
+        "weekdays_rate_2": "6pm onwards: $3 per entry",
+        "_id": 218
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays but Closed at 3pm",
+        "sunday_publicholiday_rate": "Closed",
+        "carpark": "Bangkok Bank Building",
+        "weekdays_rate_1": "7am-7pm: $2 for 1st \u00bd hr; $4 for sub. hr",
+        "weekdays_rate_2": "7am-7pm: $2 for 1st \u00bd hr; $4 for sub. hr",
+        "_id": 219
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-1pm: $3 per hr. Aft 1pm: $1.20 per hr",
+        "sunday_publicholiday_rate": "$1.20 per hr",
+        "carpark": "Bayfront Avenue",
+        "weekdays_rate_1": "7am-6pm: $3 per hr",
+        "weekdays_rate_2": "Aft 6pm: $1.20 per hr",
+        "_id": 220
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "8.30am-10pm: $1 per hr. Aft 10pm: Free",
+        "carpark": "Berjaya Hotel",
+        "weekdays_rate_1": "8.30am-5pm: $1 per \u00bd hr",
+        "weekdays_rate_2": "5pm-10pm: $1 per hr; Aft 10pm: Free",
+        "_id": 221
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$2.50 for 1st 2hrs; $0.37 for sub. 10 mins",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Bugis Junction",
+        "weekdays_rate_1": "8am-5pm: $1.07 for 1st hr; $0.37 for sub. 10mins",
+        "weekdays_rate_2": "Mon-Thu: Aft 5pm: $2.50 per entry. Fri: $2.50 for 1st 2hrs; $0.37 for sub. 10 mins",
+        "_id": 222
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$0.06 per min",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Burlington Square",
+        "weekdays_rate_1": "7am-5pm: $0.04 per min",
+        "weekdays_rate_2": "Aft 5pm: $2.20 per entry",
+        "_id": 223
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays but $3.10 per \u00bd hr after 1pm",
+        "sunday_publicholiday_rate": "$3.10 per \u00bd hr",
+        "carpark": "CapitaCommercial Trust (CCT)",
+        "weekdays_rate_1": "$2.05 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.10 per \u00bd",
+        "_id": 224
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays but $3.20 per entry after 1pm",
+        "sunday_publicholiday_rate": "$3.20 per entry",
+        "carpark": "Capital Square",
+        "weekdays_rate_1": "8am-6pm: $2.20 for \u00bd hr or part thereof.",
+        "weekdays_rate_2": "6pm-8am: $3.20 per entry",
+        "_id": 225
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays but $3.20 per entry after 1pm",
+        "sunday_publicholiday_rate": "$3.20 per entry",
+        "carpark": "Capital Tower",
+        "weekdays_rate_1": "7am-6pm: $2.80 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3.20 per entry",
+        "_id": 226
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Carlton Hotel",
+        "weekdays_rate_1": "7am-6pm: $3 for 1st hr; $1.50 for for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $6 per entry",
+        "_id": 227
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.00 per entry",
+        "carpark": "Central Mall",
+        "weekdays_rate_1": "6am-5pm: $2.00 for 1st hr; $1.00 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.00 per entry",
+        "_id": 228
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.50 per entry",
+        "carpark": "Central \u00a9",
+        "weekdays_rate_1": "6am-5pm: $2.20 for 1st hr; $1.10 for sub. \u00bd hr or part thereof",
+        "weekdays_rate_2": "Aft 5pm: $3.50 per entry",
+        "_id": 229
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Chijmes",
+        "weekdays_rate_1": "8am-5.59am :$2.20 for 1st hr; $0.55 for sub. 15 mins.",
+        "weekdays_rate_2": "6pm-5.59am: (Valet Parking Only) Valet Charge $4 per entry, Carpark charges: $4 per hr.",
+        "_id": 230
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$3 per entry. (12 midnight-6am: Closed)",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "China Square Central",
+        "weekdays_rate_1": "8am-6pm: $1.80 per \u00bd hr or part thereof.",
+        "weekdays_rate_2": "Aft 6pm: $3 per entry.  (12 midnight-6am: Closed)",
+        "_id": 231
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.50 per entry",
+        "carpark": "Chinatown Point",
+        "weekdays_rate_1": "7am-5pm: $1.20 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2.50 per entry",
+        "_id": 232
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-4.59pm: $2.14 for 1st 2hrs; $1.07 for sub. hr; Aft 5pm: $2.14 for 1st hr; $1.07 for sub. hr (Cap at $5.35)",
+        "sunday_publicholiday_rate": "$2.68 per entry",
+        "carpark": "Clarke Quay",
+        "weekdays_rate_1": "7am-11.59am; 3pm-4.59pm: $2.14 for 1st 2hrs; $1.07 for sub. hr (Free parking between 12pm-2.59pm)",
+        "weekdays_rate_2": "Aft 5pm: $2.14 for 1st hr; $1.07 for sub. hr (Cap at $5.35)",
+        "_id": 233
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Clifford Centre",
+        "weekdays_rate_1": "6am-5pm: $5 per hr  (Car park closed at 11pm daily from Mon-Sat)",
+        "weekdays_rate_2": "5pm-11pm: $3 per entry",
+        "_id": 234
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$2.20 for 1st 2hrs; $1.10 for sub. hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Conrad Centennial Singapore",
+        "weekdays_rate_1": "7am-6pm: $3.30 for 1st hr; $1.10 for sub.\u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $2.20 per entry",
+        "_id": 235
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Copthorne King's Hotel",
+        "weekdays_rate_1": "7am-12am: $3 for 1st hr; $1.50 for sub \u00bd hr",
+        "weekdays_rate_2": "Aft 12am: $4 for 1st hr; $2 for sub \u00bd hr",
+        "_id": 236
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Copthorne Orchid Hotel",
+        "weekdays_rate_1": "8am-5pm: $1.50 for 1st hr; $1 for sub. hr, per day $20)",
+        "weekdays_rate_2": "Aft 5pm: $3 per entry",
+        "_id": 237
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "6am-1pm : $1.50 per \u00bd hr. Closed at 1:00pm. Cars remaining from 1:00pm onward will be charged an additional flat rate of $5",
+        "sunday_publicholiday_rate": "Closed",
+        "carpark": "CPF Building Robinson Road",
+        "weekdays_rate_1": "6am-5pm: $1.50 per \u00bd hr",
+        "weekdays_rate_2": "Closed at 5pm. Cars remaining from 5pm onward will be charged an additional flat rate of $5",
+        "_id": 238
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "6am-1pm: $2.57 per \u00bd hr; aft 1pm: $2.57 per entry",
+        "sunday_publicholiday_rate": "$2.57 per entry",
+        "carpark": "DBS Building",
+        "weekdays_rate_1": "6am-7pm: $2.57 per \u00bd hr",
+        "weekdays_rate_2": "Aft 7pm: $2.57 per entry",
+        "_id": 239
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$3.21 per entry",
+        "sunday_publicholiday_rate": "$3.21 per entry",
+        "carpark": "Far East Square",
+        "weekdays_rate_1": "6am-4.59pm: $2.14 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.21 per entry",
+        "_id": 240
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays but $3.20 per entry after 1pm",
+        "sunday_publicholiday_rate": "Closed",
+        "carpark": "Far Eastern Bank Building",
+        "weekdays_rate_1": "7am-6pm: $2.30 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6.30pm: $3.20 per entry",
+        "_id": 241
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Fortune Centre",
+        "weekdays_rate_1": "7am-7pm: $3.22 per hr",
+        "weekdays_rate_2": "Aft 7pm: $3.21 per entry",
+        "_id": 242
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Fu Lu Shou Complex",
+        "weekdays_rate_1": "8am-5pm: $2.40 per hr",
+        "weekdays_rate_2": "Aft 5pm: $2.20 per entry (Car park closed at 12.30am daily)",
+        "_id": 243
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$5 per entry",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "Fullerton Hotel",
+        "weekdays_rate_1": "7am-6pm: $2.20 per \u00bd hr",
+        "weekdays_rate_2": "After 6pm: $5 per entry",
+        "_id": 244
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Funan DigitaLife Mall",
+        "weekdays_rate_1": "12am-5.59pm: $2.14 for 1st hr; $0.54 for sub. 15mins",
+        "weekdays_rate_2": "6pm-9.59pm: $2.14 per entry",
+        "_id": 245
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Furama City Centre Singapore",
+        "weekdays_rate_1": "5am-5pm: $1.40 for 1st \u00bd hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3 per entry",
+        "_id": 246
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Furama Riverfront Singapore",
+        "weekdays_rate_1": "7am-5pm: $1 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $6 per entry",
+        "_id": 247
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "6am-11.59pm: $3 for 1st hr; $0.50 for sub. \u00bd hr, $3 for 1st hr; $0.50 for sub. \u00bd hr from 12am-1.59am for Fri-Sun/PH",
+        "sunday_publicholiday_rate": "$2 for 1st hr; $0.50 for sub. \u00bd hr from 2.01am-6am for Fri-Sun/PH",
+        "carpark": "Gallery Hotel",
+        "weekdays_rate_1": "12pm-2pm: $3 for 1st hr; $1 for sub. \u00bd hr; $2 for 1st hr, $0.50 for sub. \u00bd hr from 2.01pm to 6.00pm for Mon-Thu",
+        "weekdays_rate_2": "6pm-11.59pm: $3 for 1st hr; $1 for sub. \u00bd hr; $2 for 1st hr; $0.50 for sub. \u00bd hr  from 12am-11.59am for Mon-Thu",
+        "_id": 248
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "0700-1800 - Free Parking; 1800-0700: $2/entry.",
+        "sunday_publicholiday_rate": "Free Parking",
+        "carpark": "Gillman Barracks",
+        "weekdays_rate_1": "$0.50 / 30 mins",
+        "weekdays_rate_2": "From 1700: $2.00 / entry",
+        "_id": 249
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.20 per entry",
+        "carpark": "Golden Mile Complex",
+        "weekdays_rate_1": "7am-6pm: $2 for 1st hr; $1 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $2.20 per entry",
+        "_id": 250
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays but $3.30 per entry after 1pm",
+        "sunday_publicholiday_rate": "$3.3 per entry",
+        "carpark": "Golden Shoe Complex",
+        "weekdays_rate_1": "7am-5pm: $2.60 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.30 per entry",
+        "_id": 251
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$4.28 per entry",
+        "carpark": "Grand Copthorne Waterfront Hotel",
+        "weekdays_rate_1": "7am-5pm: $3.75 for 1st hr; $2.14 for sub. hr",
+        "weekdays_rate_2": "Aft 5pm: $4.28 per entry",
+        "_id": 252
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.57 per entry",
+        "carpark": "Grand Pacific Hotel (Formerly Allson Hotel)",
+        "weekdays_rate_1": "7am-5pm: $1.32 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.57 per entry",
+        "_id": 253
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Grand Park City Hall",
+        "weekdays_rate_1": "7am-5pm: $3.28 for 1st hr; $1.55 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $5.35 per entry",
+        "_id": 254
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "8am-12am: $3 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Great Eastern Centre",
+        "weekdays_rate_1": "8am-6pm: $1.80 per \u00bd hr (Car park at China square central; B2 closed from 12am-6am daily)",
+        "weekdays_rate_2": "6pm-12am: $3 per entry",
+        "_id": 255
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$1.65 per hr (Max. of $6.00 per entry)",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Great World City",
+        "weekdays_rate_1": "6.01am-5pm: $1.55 per hr",
+        "weekdays_rate_2": "Aft 5pm: $3.30 per entry",
+        "_id": 256
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Harbourfront Centre",
+        "weekdays_rate_1": "7am-6pm: $1.20 for 1st hr; $0.60 for sub. \u00bd hr",
+        "weekdays_rate_2": "6pm-1am: $2.40 per entry; Aft 1am: $2.04 per hr",
+        "_id": 257
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.80 per entry",
+        "carpark": "Holiday Inn Atrium Singapore",
+        "weekdays_rate_1": "7am-5pm: $1.80 per hr",
+        "weekdays_rate_2": "Aft 5pm: $3.80 per entry",
+        "_id": 258
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-1pm: $2.50 per \u00bd hr; 1pm-11pm: $3.10 per entry. Aft 11pm: Overnight Charge of $12",
+        "sunday_publicholiday_rate": "7am-11pm: $3.10 per entry. Aft 11pm: Overnight Charge of $12",
+        "carpark": "Hong Leong Building",
+        "weekdays_rate_1": "7am-5pm: $2.50 per \u00bd hr",
+        "weekdays_rate_2": "5pm-11pm: $3.10 per entry. Aft 11pm: Overnight Charge of $12",
+        "_id": 259
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-2pm: $1 per \u00bd hr; 2pm-12am: $1 per hr",
+        "sunday_publicholiday_rate": "7am-12am: $1 per hr",
+        "carpark": "Hub Synergy Point (Formerly Apex tower)",
+        "weekdays_rate_1": "7am-6pm: $1 per \u00bd hr",
+        "weekdays_rate_2": "6pm-12am: $1 per hr",
+        "_id": 260
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-1pm: $3 per hr; Aft 1pm: $3 per entry",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Icon Village",
+        "weekdays_rate_1": "7am-5pm: $1.50 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3 per entry",
+        "_id": 261
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$2.50 for 1st 2hrs; $0.25 for sub. 10 mins",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Iluma",
+        "weekdays_rate_1": "8am-5pm: $1.07 for 1st hr; $0.37 for sub. 10 mins",
+        "weekdays_rate_2": "Mon-Thu: Aft 5pm: $2.50 per entry; Fri: $2.50 for 1st 2hrs; $0.25 for sub. 10 mins",
+        "_id": 262
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7.30am-12.59pm: $2.75 per \u00bd hr. 1.00pm-7.29am: $3.30 per entry",
+        "sunday_publicholiday_rate": "7.30am-7.29am: $3.30 per entry.",
+        "carpark": "Income At Raffles ( former Hitachi tower)",
+        "weekdays_rate_1": "7.30am-5.59pm: $2.75 per \u00bd hr",
+        "weekdays_rate_2": "6pm to 7.29am : $3.30 per entry",
+        "_id": 263
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$2.50 for 1st 2hrs; $0.25 for sub. 10 mins",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Inter-continental Singapore Hotel",
+        "weekdays_rate_1": "8am-5pm: $1.07 for 1st hr; $0.37 for sub. 10mins",
+        "weekdays_rate_2": "Mon-Thu: Aft 5pm: $2.50 per entry. Fri: $2.50 for 1st 2hrs; $0.25 for sub. 10 mins",
+        "_id": 264
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays, but $3 per entry after 3pm",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "International Plaza",
+        "weekdays_rate_1": "7am-5pm: $2.20 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3 per entry",
+        "_id": 265
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "8am-2pm: $2.50 per \u00bd hr; 2pm-10pm: $2.50 per entry",
+        "sunday_publicholiday_rate": "Closed",
+        "carpark": "Keck Seng Tower",
+        "weekdays_rate_1": "8am-6pm: $2.50 per \u00bd hr",
+        "weekdays_rate_2": "6pm-10pm: $2.50 per entry",
+        "_id": 266
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-1pm: $1.05 per \u00bd hr; 1pm-6pm: $1.20 for 1st hr; $0.60 for sub. \u00bd hr; 6pm-1am: $2.40 per entry; Aft 1am: $3.10 per hr",
+        "sunday_publicholiday_rate": "7am-6pm: $1.20 for 1st hr; $0.60 for sub. \u00bd hr; 6pm-1am: $2.40 per entry; Aft 1am: $3.10 per hr",
+        "carpark": "Keppel Bay Tower / Harbourfront Tower One",
+        "weekdays_rate_1": "7am-7pm: $1.05 per \u00bd hr",
+        "weekdays_rate_2": "7pm-1am: $3.10 per entry; Aft 1am: $3.10 per hr",
+        "_id": 267
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2 per entry",
+        "carpark": "Keypoint",
+        "weekdays_rate_1": "$1.10 for \u00bd hr",
+        "weekdays_rate_2": "$2 per entry (close at midnight)",
+        "_id": 268
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "After 2pm - $4.00 flat",
+        "sunday_publicholiday_rate": "$4.00 flat",
+        "carpark": "klapsons, The Boutique Hotel",
+        "weekdays_rate_1": "6.30am to 6.30pm - first 3 hours at $3.00 and subsequent half an hour at $1.50",
+        "weekdays_rate_2": "6.30pm to 6.30am - $ 4.00 flat",
+        "_id": 269
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.14 per entry",
+        "carpark": "Landmark Village Hotel",
+        "weekdays_rate_1": "8am-5pm: $1.90 for 1st hr; $1.07 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2.14 per entry",
+        "_id": 270
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-1pm: $1.07 per hr; Aft 1pm: $3.21 per entry",
+        "sunday_publicholiday_rate": "$3.21 per entry",
+        "carpark": "Liang Court",
+        "weekdays_rate_1": "7am-5pm: $1.07 per hr",
+        "weekdays_rate_2": "Aft 5pm: $3.21 per entry",
+        "_id": 271
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays, but $3 per entry after 1pm",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "M Hotel",
+        "weekdays_rate_1": "7am-6pm: $1.50 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3 per entry",
+        "_id": 272
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Fri/Sat-Sun/PH: 7am-2am :$2.40 for 1st 2 hrs; $1.20 per hr for sub. 2hrs; $1.40 per \u00bd hr for sub. \u00bd hr after 4 hrs of parking. 2am-7am: $1.10 per \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Mandarin Oriental Hotel",
+        "weekdays_rate_1": "Mon-Thu: 7am-5pm: $2.20 for 1st 2hrs; $1.10 per \u00bd hr for sub. \u00bd hr (Car Park at Marina Square)",
+        "weekdays_rate_2": "Mon-Thu: 5pm-2am: $2.20 per entry; 2am-7am: $1.10 per \u00bd hr",
+        "_id": 273
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$3.21 for 1st 4hrs; $0.27 for sub. 10 mins",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Marina Bay Financial Centre Tower 1, 2 ,3 & Marina Bay Link Mall",
+        "weekdays_rate_1": "6am-6pm: $1.07 per 10 mins",
+        "weekdays_rate_2": "Aft 6pm: $3.21 for 1st 4hrs; $0.27 for sub. 10 mins",
+        "_id": 274
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Sat, Sun & Eve of PH: 7am-7pm: $8 for 1st hr; $1 for sub. \u00bd hr; Aft 7pm: $8 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Marina Bay Sands",
+        "weekdays_rate_1": "7am-7pm: $7 for 1st hr; $1 for sub.\u00bd hr; (Capped at $26 every 24hrs)",
+        "weekdays_rate_2": "Aft 7pm: $7 per entry",
+        "_id": 275
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Fri/Sat-Sun/PH: 7am-2am :$2.40 for 1st 2 hrs; $1.20 per hr for sub. 2hrs; $1.40 per \u00bd hr for sub. \u00bd hr after 4 hrs of parking. 2am-7am: $1.10 per \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Marina Mandarin Hotel",
+        "weekdays_rate_1": "Mon-Thu: 7am-5pm: $2.20 for 1st 2hrs; $1.10 per \u00bd hr for sub. \u00bd hr (Car Park at Marina Square)",
+        "weekdays_rate_2": "Mon-Thu: 5pm-2am: $2.20 per entry; 2am-7am: $1.10 per \u00bd hr",
+        "_id": 276
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Fri/Sat-Sun/PH: 7am-2am :$2.40 for 1st 2 hrs; $1.20 per hr for sub. 2hrs; $1.40 per \u00bd hr for sub. \u00bd hr after 4 hrs of parking. 2am-7am: $1.10 per \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Marina Square",
+        "weekdays_rate_1": "Mon-Thu: 7am-5pm: $2.20 for 1st 2hrs; $1.10 per \u00bd hr for sub. \u00bd hr",
+        "weekdays_rate_2": "Mon-Thu: 5pm-2am: $2.20 per entry; 2am-7am: $1.10 per \u00bd hr",
+        "_id": 277
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$2.20 for 1st 2hrs; $1.10 for sub. hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Millenia Singapore",
+        "weekdays_rate_1": "7am-6pm: $3.30 for 1st hr; $1.10 for sub.\u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $2.20 per entry",
+        "_id": 279
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$2.20 for 1st 2hrs; $1.10 for sub. hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Millenia Walk (Basement Car Park)",
+        "weekdays_rate_1": "7am-6pm: $3.30 for 1st hr; $1.10 for sub.\u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $2.20 per entry",
+        "_id": 280
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$4.28 for 1st 2hrs; $1.605 for sub. hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Millenia Walk (Surface parking @ L1)",
+        "weekdays_rate_1": "7am-6pm: $4.28 for 1st hr; $1.605 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $4.28 for 1st 2hrs; $1.605 for sub. hr",
+        "_id": 281
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "0700-1700:$1.00 per 30 mins; 1700-0700: $0.50 per 30 mins (Per Minute Charging)",
+        "sunday_publicholiday_rate": "$0.50 per 30 mins (Per Minute Charging)",
+        "carpark": "Neil Road Off-Street",
+        "weekdays_rate_1": "$1.00 per 30 mins (Per Minute Charging)",
+        "weekdays_rate_2": "$0.50 per 30 mins (Per Minute Charging)",
+        "_id": 282
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$3 per entry",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "North Bridge Centre",
+        "weekdays_rate_1": "8am-5pm: $1.30 per \u00bd hr",
+        "weekdays_rate_2": "5pm-11pm: $3 per entry",
+        "_id": 283
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-1pm: $1.07 per hr; Aft 1pm: $3.21 per entry",
+        "sunday_publicholiday_rate": "$3.21 per entry",
+        "carpark": "Novotel Clarke Quay",
+        "weekdays_rate_1": "7am-5pm: $1.07 per hr",
+        "weekdays_rate_2": "Aft 5pm: $3.21 per entry",
+        "_id": 284
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$3 per entry",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "OCBC centre",
+        "weekdays_rate_1": "7am-6pm: $4 per hr",
+        "weekdays_rate_2": "Aft 6pm: $3 per entry",
+        "_id": 285
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$5 per entry",
+        "sunday_publicholiday_rate": "$5 per entry",
+        "carpark": "One Fullerton",
+        "weekdays_rate_1": "7am-6pm: $2.50 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $5 per entry",
+        "_id": 286
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$3.21 for 1st 4hrs; $0.27 per sub. 10 mins",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "One Raffles Quay",
+        "weekdays_rate_1": "6am-6pm: $1.07 per 10mins",
+        "weekdays_rate_2": "Aft 6pm: $3.21 for 1st 4hrs; $0.27 per sub. 10 mins",
+        "_id": 287
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "OUB Centre",
+        "weekdays_rate_1": "7am-5pm\u00a0: $2.62 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3.21 per entry",
+        "_id": 288
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-2.59pm: $0.86 per 10mins block. 3pm-11.59am $3.21 per entry",
+        "sunday_publicholiday_rate": "$3.21 per entry",
+        "carpark": "OUE Bayfront (Formerly Overseas Union House)",
+        "weekdays_rate_1": "7am-5.59pm: $0.86 per 10mins block",
+        "weekdays_rate_2": "Aft 6pm: $3.21 per entry",
+        "_id": 289
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-2am :$2.40 for 1st 2 hrs; $1.20 per hr for sub. 2hrs; $1.20 per \u00bd hr for sub. \u00bd hr after 4 hrs of parking. 2am-7am: $1.10 per \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Pan Pacific Hotel",
+        "weekdays_rate_1": "Mon-Fri: 7am-5pm: $2.20 for 1st 2hrs; $1.10 per \u00bd hr for sub. \u00bd hr (Car Park at Marina Square)",
+        "weekdays_rate_2": "Mon-Fri: 5pm-2am: $2.20 per entry; 2am-7am: $1.10 per \u00bd hr",
+        "_id": 290
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-12am: $3 per entry",
+        "carpark": "Parklane Shopping Mall",
+        "weekdays_rate_1": "7am-7pm: $2.50 for 1st hr; $1.25 for sub. \u00bd hr",
+        "weekdays_rate_2": "7pm-12am: $2.50 per entry. Aft 12am: $2.50 per entry",
+        "_id": 291
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays but $2.50 per entry (Multi-Storey Carpark) & $6 per entry (Hotel Driveway) after 1pm.",
+        "sunday_publicholiday_rate": "Multi-Storey Carpark - $2.50 per entry. Hotel Driveway - $6 per entry.",
+        "carpark": "PARKROYAL on Beach Road",
+        "weekdays_rate_1": "7am-5pm: Multi Storey Carpark - $2.50 for 1st hr; $1.50 for sub. \u00bd hr. Hotel Driveway - $6 for 1st hr; $2 for sub. \u00bd hr.",
+        "weekdays_rate_2": "Aft 5pm: Multi Storey Carpark - $2.50 per entry. Hotel Driveway - $6 per entry.",
+        "_id": 292
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.50 per entry",
+        "carpark": "Pearl's Centre",
+        "weekdays_rate_1": "8.30am-5pm: $1.20 per \u00bd hr (max $22.90)",
+        "weekdays_rate_2": "Aft 5pm: $2.50 per entry",
+        "_id": 293
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "8am-5pm: $1.50 per hr; Aft 5pm: $4 per entry",
+        "carpark": "Peninsula Excelsior Hotel",
+        "weekdays_rate_1": "8am-5pm: $2.60 for 1st hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $4 per entry",
+        "_id": 294
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Season Parking Only",
+        "sunday_publicholiday_rate": "Season Parking Only",
+        "carpark": "Peninsular Plaza",
+        "weekdays_rate_1": "Season Parking Only",
+        "weekdays_rate_2": "Season Parking Only",
+        "_id": 295
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "People's Park Centre",
+        "weekdays_rate_1": "7am-5pm: $1.50 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2.50 per entry",
+        "_id": 296
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.95 per entry",
+        "carpark": "PoMo (Fomerly Paradiz Centre)",
+        "weekdays_rate_1": "8am-5pm: $1.25 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2.95 per entry",
+        "_id": 297
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$3 per entry",
+        "sunday_publicholiday_rate": "Closed",
+        "carpark": "PWC Building",
+        "weekdays_rate_1": "8am-6pm: $2.20 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3 per entry",
+        "_id": 298
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$2.20 for 1st 2hrs, $0.40 for sub. 15mins for 3rd and 4th hr, $0.60 for sub. 15mins for 5th hr onwards.",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Raffles City",
+        "weekdays_rate_1": "8am-5.59pm: $2.20 for 1st hr; $0.55 for sub. 15mins",
+        "weekdays_rate_2": "6pm-7.59am: $3 per entry",
+        "_id": 299
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$6 per entry",
+        "carpark": "Raffles Hotel",
+        "weekdays_rate_1": "12am-6pm: $3 for 1st \u00bd hr; $1.50 for sub. \u00bd hr",
+        "weekdays_rate_2": "6pm-12am: $6 per entry",
+        "_id": 300
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays, but $3 per entry after 12pm",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Republic Plaza",
+        "weekdays_rate_1": "7am-5pm: $3 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3 per entry",
+        "_id": 301
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Fri/Sat-Sun/PH: 7am-7pm: $8 for 1st hr; $2 for sub. \u00bd hr or part thereof.  Aft 7pm: $8 per entry (Max: $28 per 24 hrs)",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Resorts World Sentosa",
+        "weekdays_rate_1": "Mon-Thu: 7am-7pm: $7 for 1st hr; $1 for sub. \u00bd hr or part thereof. (Max: $28 per 24 hrs)",
+        "weekdays_rate_2": "Aft 7pm: $6 per entry",
+        "_id": 302
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$4 per entry",
+        "carpark": "Robertson Walk",
+        "weekdays_rate_1": "6am-6pm: $1.50 for 1st hr or part thereof; $0.50 for sub. \u00bd hr or part thereof.",
+        "weekdays_rate_2": "Aft 6pm: $4 per entry",
+        "_id": 303
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays, but $2.4 per entry after 2pm",
+        "sunday_publicholiday_rate": "$2.4 per entry",
+        "carpark": "Robinson 77 (Formerly SIA Building)",
+        "weekdays_rate_1": "7am-5pm: $2.4 per \u00bd hr",
+        "weekdays_rate_2": "5pm-11pm: $2.4 per entry",
+        "_id": 304
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays, but $2 per entry after 1pm",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Robinson Centre",
+        "weekdays_rate_1": "8am-5pm: $2 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $3 per entry",
+        "_id": 305
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-5.59pm: $2.50 per hr. 6pm-2am (the next day): $5 per entry. 2.01am-6.59am: $5 (additional flat fee for overnight parking)",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "School of the Arts, Singapore (SOTA)",
+        "weekdays_rate_1": "7.00am-5.59pm: $2.50 per hr",
+        "weekdays_rate_2": "6pm-2am (the next day): $5 per entry. 2.01am-6.59am: $5 (additional flat fee for overnight parking)",
+        "_id": 306
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-10pm: $3 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "SGX Centre",
+        "weekdays_rate_1": "7am-5pm: $2.50 per \u00bd hr",
+        "weekdays_rate_2": "5pm-10pm: $3 per entry (The car park closed at 10pm daily)",
+        "_id": 307
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays, but $3 per entry after 2pm",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Shenton House",
+        "weekdays_rate_1": "8am-5.30pm: $3 per \u00bd hr",
+        "weekdays_rate_2": "Aft 5.30pm: $3 per entry",
+        "_id": 308
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Sim Lim Square",
+        "weekdays_rate_1": "3:30am-6pm: $0.05 per min",
+        "weekdays_rate_2": "Aft 6pm: $2 per entry (1st hr Free parking from 6pm-10pm daily inclusive of PH)",
+        "_id": 309
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Sim Lim Tower",
+        "weekdays_rate_1": "8am-6pm: $1.50 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3 per entry",
+        "_id": 310
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-9.59pm: $0.018 per min/$1.08 per hr; Aft 10pm: $2.14 per entry",
+        "carpark": "Singapore General Hospital (Carpark C, E, G & I)",
+        "weekdays_rate_1": "7am-9.59pm: $0.036 per min/$2.16 per hr",
+        "weekdays_rate_2": "10pm-6.59am: $2.14 per entry",
+        "_id": 311
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$2.14 per entry",
+        "carpark": "Singapore General Hospital (Multi-Storey Carpark H)",
+        "weekdays_rate_1": "7am-9.59pm: $0.018 per min/$1.08 per hr",
+        "weekdays_rate_2": "10pm-6.59am: $2.14 per entry",
+        "_id": 312
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Singapore Land Tower",
+        "weekdays_rate_1": "For Tenants only",
+        "weekdays_rate_2": "-",
+        "_id": 313
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays, but $3.70 per entry after 1pm",
+        "sunday_publicholiday_rate": "$3.70 per entry",
+        "carpark": "Six Battery Road",
+        "weekdays_rate_1": "7am-6pm: $3.10 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3.70 per entry",
+        "_id": 314
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Sunshine Plaza",
+        "weekdays_rate_1": "7am-6pm: $1.07 per \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $3.21 per entry",
+        "_id": 315
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$1.10 per hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Suntec City",
+        "weekdays_rate_1": "7am-5pm: $2.20 for 1st hr; $1.10 for sub. \u00bd hr (excluding PH)",
+        "weekdays_rate_2": "5pm-12am:$2.20 per entry; Aft 12am:$1.10 per hr",
+        "_id": 316
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Swissotel Merchant Court Hotel",
+        "weekdays_rate_1": "Daily: $4.50 for 1st hr; $3 for sub. hr",
+        "weekdays_rate_2": "-",
+        "_id": 317
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "$2 for 1st 2hrs; $0.30 for sub. 15mins",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Swissotel The Stamford Hotel",
+        "weekdays_rate_1": "8am-5pm: $2 for 1st hr; $0.50 for sub. 15mins (Car park at Raffles City Shopping Centre)",
+        "weekdays_rate_2": "Aft 5pm: $2.50 per entry",
+        "_id": 318
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "HDB coupon parking",
+        "sunday_publicholiday_rate": "HDB coupon parking",
+        "carpark": "Tanjong Katong Complex",
+        "weekdays_rate_1": "HDB coupon parking",
+        "weekdays_rate_2": "HDB coupon parking",
+        "_id": 319
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "6am-1am: $3.21 per entry",
+        "carpark": "The Adelphi",
+        "weekdays_rate_1": "6am-5pm: $2.40 for 1st hr; $1.20 for sub. \u00bd hr",
+        "weekdays_rate_2": "5pm-1am: $3.21 per entry",
+        "_id": 320
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Charges same as wkdays, but $1.07 per entry after 12pm",
+        "sunday_publicholiday_rate": "$1.07 per entry",
+        "carpark": "The Concourse",
+        "weekdays_rate_1": "7am-5pm: $2.14 for 1st hr; $1.07 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 5pm: $2.14 per entry",
+        "_id": 321
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Closed",
+        "carpark": "The Corporate Office",
+        "weekdays_rate_1": "7am-5pm: $4 per hr",
+        "weekdays_rate_2": "Aft 5pm: $2.50 per entry",
+        "_id": 322
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "6am-6pm: $2 per hr ($1.50 per \u00bd hr at Waterfront car park daily)",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "The Esplanade",
+        "weekdays_rate_1": "6am-6pm: $2 per hr ($1.50 per \u00bd hr at Waterfront car park daily) 12pm-2pm $2 per entry",
+        "weekdays_rate_2": "6pm-10pm: $6 per entry; Aft 10pm: $2 per entry",
+        "_id": 323
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "8am-1pm: $2.00 for 1st hr; $1 for sub. hr; Aft 11pm: $3 per entry",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "UE Square",
+        "weekdays_rate_1": "8am-5pm: $2.00 for 1st hr; $1 for sub. hr",
+        "weekdays_rate_2": "Aft 5pm: $3 per entry",
+        "_id": 324
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-12am: $3.50 per entry. Aft 12am $3.50 per entry",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "UOB Plaza",
+        "weekdays_rate_1": "7am-6pm: $2.50 per \u00bd hr",
+        "weekdays_rate_2": "6pm-12am: $3.50 per entry. Aft 12am: $3.50 per entry",
+        "_id": 325
+      },
+      {
+        "category": "South & CBD",
+        "saturday_rate": "7am-6pm: $1.40 for 1st hr; $0.70 for sub. \u00bd hr; 6.01pm-4am: $3.50 per entry; Aft 4am: $2.50 per hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Vivocity",
+        "weekdays_rate_1": "7am-6pm: $1.20 for 1st hr; $0.60 for sub. \u00bd hr",
+        "weekdays_rate_2": "6.01pm-4am: $3 per entry; Aft 4am: $2.50 per hr",
+        "_id": 326
+      },
+      {
+        "category": "West",
+        "saturday_rate": "7am to 10am: $2/hr or part thereof; 10am to 12mn: $2.40/entry; 12 mn to 7am: $2.40/hr or part thereof.",
+        "sunday_publicholiday_rate": "7am to 12mn: $2.40/entry; 12 mn to 7am: $2.40/hr or part thereof.",
+        "carpark": "Alexandra Retail Centre",
+        "weekdays_rate_1": "7am to 6pm: $2/hr or part thereof.",
+        "weekdays_rate_2": "6pm to 12mn: $2.40/entry; 12 mn to 7am: $2.40/hr or part thereof.",
+        "_id": 329
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Anchorpoint Shopping Centre",
+        "weekdays_rate_1": "8am-6.59pm: $1 for 1st \u00bd hr or part thereof; $2 for sub hr or part thereof.",
+        "weekdays_rate_2": "7pm-7.59am: $2.50 per entry.",
+        "_id": 330
+      },
+      {
+        "category": "West",
+        "saturday_rate": "12am to 6pm :$2.14 for 1st 2 hr, $0.32 for sub 15mins",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Bukit Panjang Plaza",
+        "weekdays_rate_1": "12am to 6pm :$1.07 for 1st hr, $0.32/min for sub.min.",
+        "weekdays_rate_2": "6pm-12am: $2.14 per entry",
+        "_id": 331
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Bukit Timah Plaza (Multi-Storey Car Park)",
+        "weekdays_rate_1": "7.30am-5pm: $1.28 per hr",
+        "weekdays_rate_2": "5pm-12am: $2.25 per entry. Aft 12am: $2.25 per entry",
+        "_id": 332
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Bukit Timah Shopping Centre",
+        "weekdays_rate_1": "8am-5pm: $1.25 per hr",
+        "weekdays_rate_2": "Aft 5pm: $2.10 per entry",
+        "_id": 333
+      },
+      {
+        "category": "West",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Coronation Shopping Plaza",
+        "weekdays_rate_1": "Daily(7.01am-7am): $2 per hr.",
+        "weekdays_rate_2": "-",
+        "_id": 334
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Holland Road Shopping Centre",
+        "weekdays_rate_1": "12am-8.59pm: $1.55 per \u00bd hr",
+        "weekdays_rate_2": "Aft 9pm: $3.25 per entry",
+        "_id": 335
+      },
+      {
+        "category": "West",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "IKEA (Alexandra)",
+        "weekdays_rate_1": "Daily :$0.05 per min, $1.50 per 30 Mins (subsequently charged on a per minute basis)",
+        "weekdays_rate_2": "-",
+        "_id": 336
+      },
+      {
+        "category": "West",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "IMM Building",
+        "weekdays_rate_1": "Free for 1st 2hrs for first entry only. Chargeable after 2nd hr of 1st entry @ $1.07 /hr; $0.30 for sub. 15 mins.",
+        "weekdays_rate_2": "-",
+        "_id": 337
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "JCube",
+        "weekdays_rate_1": "3.30am-5.59pm: $1.30 for 1st hr; sub 15 mins or part thereof: $0.30. *Free 2 Hour Parking from 12 - 2pm daily (Monday - Friday) from now to 15 Oct 2015.",
+        "weekdays_rate_2": "6pm-3.29am: $2.50 per entry",
+        "_id": 338
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Junction 10",
+        "weekdays_rate_1": "$1.25 for 1st hr; $0.65 for sub. hr",
+        "weekdays_rate_2": "-",
+        "_id": 339
+      },
+      {
+        "category": "West",
+        "saturday_rate": "$2.14 for 1st 2hrs; $1.07 for sub. hr; Aft 9pm: $1.07 for 1st 3hrs; $1.07 for sub. hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "Jurong Point Shopping Centre",
+        "weekdays_rate_1": "7am-5pm: $1.07 for 1st 2hrs; $1.07 for sub. hr (Free parking from 12pm-2pm on Monday-Thursday)",
+        "weekdays_rate_2": "5pm-9pm: $2.14 for 1st 2hrs; $1.07 for sub. hr; Aft 9pm: $1.07 for 1st 3hrs; $1.07 for sub. hr",
+        "_id": 340
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3 per entry",
+        "carpark": "Jurong Theatre",
+        "weekdays_rate_1": "8am-8.59pm: $1.60 per hr",
+        "weekdays_rate_2": "Aft 9pm: $3 per entry",
+        "_id": 341
+      },
+      {
+        "category": "West",
+        "saturday_rate": "3am-5.59pm: $2.14 for 1st 2-hrs; $0.32 for sub. 15 mins. 6pm-2.59am: $2.14 per entry.",
+        "sunday_publicholiday_rate": "3am-5.59pm: $2.14 for 1st 2-hrs; $0.32 for sub. 15 mins. 6pm-11.59am: $2.14 per entry.",
+        "carpark": "Lot 1 Shopping Centre",
+        "weekdays_rate_1": "12am-5.59pm: $1.07 for 1st hr; $0.32 for sub. 15 mins.",
+        "weekdays_rate_2": "Mon-Thurs, 6pm-11.59pm: $2.14 per entry. Fri & Eve of PH, 6pm-2.59am: $2.14 per entry.",
+        "_id": 342
+      },
+      {
+        "category": "West",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "NUH",
+        "weekdays_rate_1": "Daily: $0.03 per min",
+        "weekdays_rate_2": "-",
+        "_id": 343
+      },
+      {
+        "category": "West",
+        "saturday_rate": "8am-6pm: $1.50 for 1st 1hr; $1.20 for sub. \u00bd hr; Aft 6pm: $2.30 per entry",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Queensway Shopping Centre",
+        "weekdays_rate_1": "8am-6pm: $2 for 1st 1\u00bdhr; $1.20 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 6pm: $2.30 per entry",
+        "_id": 344
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "$3.00 per entry",
+        "carpark": "Savoy Theatre",
+        "weekdays_rate_1": "8am-5pm: $1.20 per hr",
+        "weekdays_rate_2": "Aft 5pm: $3.00 per entry",
+        "_id": 345
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Serene Centre",
+        "weekdays_rate_1": "8am-10pm: $1.53 for 1st hr; $1.53 for sub. \u00bd hr",
+        "weekdays_rate_2": "Aft 10pm: $1.53 per entry",
+        "_id": 346
+      },
+      {
+        "category": "West",
+        "saturday_rate": "HDB coupon parking",
+        "sunday_publicholiday_rate": "HDB coupon parking",
+        "carpark": "Sunshine Place",
+        "weekdays_rate_1": "HDB coupon parking",
+        "weekdays_rate_2": "HDB coupon parking",
+        "_id": 347
+      },
+      {
+        "category": "West",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "The Clementi Mall",
+        "weekdays_rate_1": "Daily: $1.50 for 1st hr; $0.80 for sub. \u00bd hr",
+        "weekdays_rate_2": "-",
+        "_id": 348
+      },
+      {
+        "category": "West",
+        "saturday_rate": "6am - 6pm: $1.00 per hour or part thereof; Aft 6pm same as wkdays",
+        "sunday_publicholiday_rate": "6am - 6pm: $1.00 per hour or part thereof; Aft 6pm same as wkdays",
+        "carpark": "The Metropolis",
+        "weekdays_rate_1": "6am-6pm: $2.50 for 1st hr, sub $1.25 per 1/2 hr",
+        "weekdays_rate_2": "Time period 1: 6pm-12am: $2.50 per entry; Time period 2: 12am-6am: $2.50 per entry",
+        "_id": 349
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Sat & PH: Same as wkdays",
+        "sunday_publicholiday_rate": "Sun:12am-11.59pm: $2.14 for 1st hr, $1.07 for sub. 30 mins or part thereof.",
+        "carpark": "The Star Vista",
+        "weekdays_rate_1": "12am-11.59pm:$1.30 for 1st hr, $0.65 for sub. 30 mins or part thereof.",
+        "weekdays_rate_2": "$1.30 for 1st hr, $0.65 for sub. 30 mins or part thereof.",
+        "_id": 350
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "7am-6pm:$1.50 per hr; Aft 6pm: $3.60 per entry",
+        "carpark": "Tiong Bahru Plaza",
+        "weekdays_rate_1": "$1.50 for 1st hr; $0.80 for sub. \u00bd hr",
+        "weekdays_rate_2": "$1.50 for 1st hr; $0.80 for sub. \u00bd hr",
+        "_id": 351
+      },
+      {
+        "category": "West",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Turf City",
+        "weekdays_rate_1": "Daily: Free parking",
+        "weekdays_rate_2": "-",
+        "_id": 352
+      },
+      {
+        "category": "West",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Valley Point",
+        "weekdays_rate_1": "Daily: $1.50 for 1st hr; $0.80 for sub. \u00bd hr",
+        "weekdays_rate_2": "-",
+        "_id": 353
+      },
+      {
+        "category": "West",
+        "saturday_rate": "$1.50 for 1st hr; $1.00 for sub. \u00bd hr",
+        "sunday_publicholiday_rate": "Same as Saturday",
+        "carpark": "West Coast Plaza (Ginza Plaza)",
+        "weekdays_rate_1": "$1.25 for 1st hr; $1.00 for sub. \u00bd hr",
+        "weekdays_rate_2": "$1.25 for 1st hr; $1.00 for sub. \u00bd hr",
+        "_id": 354
+      },
+      {
+        "category": "West",
+        "saturday_rate": "6am-5pm: $1.10 for 1st hr or part thereof; $0.60 for sub. \u00bd hr or part thereof; 5pm-6am: $2.50 per entry.",
+        "sunday_publicholiday_rate": "6am-6am next day: $2.50 per entry.",
+        "carpark": "West Mall",
+        "weekdays_rate_1": "6am-5pm : $1.10 for 1st 2hrs or part thereof; $0.60 for sub. \u00bd hr or part thereof.",
+        "weekdays_rate_2": "5pm-6am: $2.50 per entry.",
+        "_id": 355
+      },
+      {
+        "category": "West",
+        "saturday_rate": "Same as wkdays",
+        "sunday_publicholiday_rate": "Same as wkdays",
+        "carpark": "Westgate",
+        "weekdays_rate_1": "Daily: $1.30 for 1st hr; $0.50 for sub. 15 mins",
+        "weekdays_rate_2": "6pm - 11.59pm: $2.50 per entry",
+        "_id": 356
+      },
+      {
+        "category": "West",
+        "saturday_rate": "-",
+        "sunday_publicholiday_rate": "-",
+        "carpark": "Yew Tee Point",
+        "weekdays_rate_1": "Daily: $1.18 for 1st hr; $0.64 for sub. \u00bd hr or part thereof.",
+        "weekdays_rate_2": "-",
+        "_id": 357
+      }
+    ],
+    "_links": {
+      "start": "/api/action/datastore_search?limit=357&resource_id=85207289-6ae7-4a56-9066-e6090a3684a5",
+      "next": "/api/action/datastore_search?offset=357&limit=357&resource_id=85207289-6ae7-4a56-9066-e6090a3684a5"
+    },
+    "limit": 357,
+    "total": 357
+  }
+}
